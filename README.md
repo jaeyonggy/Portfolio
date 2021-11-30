@@ -1,4 +1,4 @@
-## Index
+## Contents
 
 • Personal Projects  
 • CUAI(중앙대학교 인공지능 학회)  
