@@ -6,9 +6,9 @@
 
 ## Contents
 
-1. Personal Projects  
-2. CUAI(중앙대학교 인공지능 학회)  
-3. Coursework  
+  1. Personal Projects  
+  2. CUAI(중앙대학교 인공지능 학회)  
+  3. Coursework  
 
 <br/>
 
