@@ -1,11 +1,3 @@
-# GitHub Portfolio
-
-This is my attempt to build a good looking portfolio which is mostly going to be of personal projects and courseworks I have done.  
-<br/>
-<br/>
-
-
-
 ## Index
 
 • Personal Projects  
