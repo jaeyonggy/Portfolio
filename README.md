@@ -1,18 +1,17 @@
 ## Data Science Portfolio
 
-
+<br/>
 
 ## Contents
 
-• Personal Projects  
-• CUAI(중앙대학교 인공지능 학회)  
-• Coursework  
+1. Personal Projects  
+2. CUAI(중앙대학교 인공지능 학회)  
+3. Coursework  
 <br/>
-<br/>
 
 
 
-## Personal Projects
+## 1. Personal Projects
 
 개인 관심사 및 공모전을 위해 진행한 프로젝트
 
@@ -47,7 +46,7 @@ zindi.africa에서 주최한 bloods.ai의 Blood Spectroscopy Classification Chal
 
 
 
-## CUAI(중앙대학교 인공지능 학회)
+## 2. CUAI(중앙대학교 인공지능 학회)
 
 CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행한 프로젝트
 
@@ -61,7 +60,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 
 
 
-## Coursework
+## 3. Coursework
 
 통계 수업에서 배운 코드 및 과제들을 정리한 RNotebook
 
