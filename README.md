@@ -2,11 +2,14 @@
 
 <br/>
 
+
+
 ## Contents
 
 1. Personal Projects  
 2. CUAI(중앙대학교 인공지능 학회)  
 3. Coursework  
+
 <br/>
 
 
@@ -42,6 +45,7 @@ Reddit.com의 subreddit 중 depression의 게시글들을 텍스트 분석을 �
 zindi.africa에서 주최한 bloods.ai의 Blood Spectroscopy Classification Challenge이다. 총 3가지의 종속변수를 분류해야 하며, 과적합을 방지하는 것이 핵심이였다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Zindi_Classification)에서 확인 바랍니다.  
 <br/>
+
 <br/>
 
 
@@ -56,6 +60,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 특정 주식과 관련된 기사 제목이 다음 날의 주가에 주는 영향을 예측하고자 하였다. 특정 주식의 주가변동여부라는 범주형 변수를 기사제목을 통해 예측하는 모형을 구현하였다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction)에서 확인 바랍니다.  
 <br/>
+
 <br/>
 
 
@@ -77,6 +82,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 데이터마이닝 수업에서 사용된 모델들의 예제 및 코드를 하나의 RNotebook으로 정리하였다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Coursework)에서 확인 바랍니다.  
 <br/>
+
 <br/>
 
 
