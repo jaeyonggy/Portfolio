@@ -104,7 +104,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 
 #### • Hands on machine learning
 
-[Ch02. End-to-end_ML_project](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/02_end_to_end_machine_learning_project.ipynb)  
+[Ch02. End-to-end ML project](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/02_end_to_end_machine_learning_project.ipynb)  
 [Ch03. Classification](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/03_classification.ipynb)  
 [Ch10. Neural nets with Keras](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/10_neural_nets_with_keras.ipynb)  
 [Ch11. Training deep neural networks](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/11_training_deep_neural_networks.ipynb)  
