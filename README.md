@@ -111,6 +111,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 [Ch12. Custom models and training with TF](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/12_custom_models_and_training_with_tensorflow.ipynb)  
 [Ch13. Loading and preprocessing data](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/13_loading_and_preprocessing_data.ipynb)  
 [Ch14. Deep computer vision with CNNs](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/14_deep_computer_vision_with_cnns.ipynb)  
+[Ch15. Preprocessing sequences using RNNs and CNNs](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/15_processing_sequences_using_rnns_and_cnns.ipynb)  
 A collection of Jupyter Notebooks that I've used studying Hands-on machine learning with scikit-learn and tensorflow 2nd edition.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
