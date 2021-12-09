@@ -101,7 +101,12 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
 
+
+#### • Hands on machine learning
+
+A collection of Jupyter Notebooks that I've used studying Hands-on machine learning with scikit-learn and tensorflow 2nd edition.  
 <br/>
 
+<br/>
 
 
