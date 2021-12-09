@@ -91,7 +91,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 #### • 베이지안 과제
 
 [RNotebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayes_HW.nb.html)  
-베이지안통계학 수업의 과제를 위해 사용된 RNotebook이다.
+베이지안통계학 수업의 과제를 위해 사용된 RNotebook이다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
 
