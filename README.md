@@ -78,22 +78,6 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 수업 및 개인적으로 공부하면서 쓴 코드 및 과제들을 정리
 
 
-#### • 시계열분석 과제 모음 
-
-[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Timeseries.nb.html)  
-시계열분석 수업을 들으면서 수행한 과제들을 하나의 R Notebook으로 정리하였다.  
-자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
-<br/>
-
-
-#### • 데이터마이닝 예제 및 코드 모음 
-
-[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/datamining_notebook.nb.html)  
-데이터마이닝 수업에서 사용된 모델들의 예제 및 코드를 하나의 R Notebook으로 정리하였다.  
-자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
-<br/>
-
-
 #### • 베이지안 예제 및 코드 모음
 
 [Bayesian Statistics - pt.1](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayesian.nb.html)  
@@ -107,6 +91,22 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 
 [R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayes_HW.nb.html)  
 베이지안통계학 수업의 과제를 위해 사용된 R Notebook이다.  
+자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
+<br/>
+
+
+#### • 시계열분석 과제 모음 
+
+[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Timeseries.nb.html)  
+시계열분석 수업을 들으면서 수행한 과제들을 하나의 R Notebook으로 정리하였다.  
+자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
+<br/>
+
+
+#### • 데이터마이닝 예제 및 코드 모음 
+
+[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/datamining_notebook.nb.html)  
+데이터마이닝 수업에서 사용된 모델들의 예제 및 코드를 하나의 R Notebook으로 정리하였다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
 
