@@ -94,6 +94,15 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 <br/>
 
 
+#### • 베이지안 예제 및 코드 모음
+
+[Bayesian Statistics - pt.1](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayesian.nb.html)  
+[Bayesian Statistics - pt.2](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayesian_pt2.nb.html)  
+베이지안통계학 수업의 과제를 위해 사용된 R Notebook이다.  
+자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
+<br/>
+
+
 #### • 베이지안 과제
 
 [R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayes_HW.nb.html)  
