@@ -100,7 +100,8 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 [MVA - pt.1](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/MVA.nb.html)  
 [MVA - pt.2](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/MVA2.nb.html)  
 [MVA - pt.3](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/MVA3.nb.html)  
-다변량 통계분석 수업을 들으면서 예제와 코드를 정리한 R Notebook이다.    
+[MVA - pt.4](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/MVA4.nb.html)  
+다변량 통계분석 수업을 들으면서 예제와 코드를 정리한 R Notebook이다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
 
