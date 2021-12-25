@@ -78,29 +78,23 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 수업 및 개인적으로 공부하면서 쓴 코드 및 과제들을 정리
 
 
-#### • 베이지안 예제 및 코드 모음
+#### • 베이지안 예제, 과제 및 코드 모음
 
-[Bayesian Statistics - pt.1](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayesian.nb.html)  
-[Bayesian Statistics - pt.2](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayesian_pt2.nb.html)  
-베이지안통계학 수업을 들으면서 예제와 코드를 정리한 R Notebook이다.  
-자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
-<br/>
-
-
-#### • 베이지안 과제
-
-[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Bayes_HW.nb.html)  
-베이지안통계학 수업의 과제를 위해 사용된 R Notebook이다.  
+[Bayesian Statistics - pt.1](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/Bayesian.nb.html)  
+[Bayesian Statistics - pt.2](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/Bayesian_pt2.nb.html)  
+[Bayesian Statistics Assignment](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/Bayes_HW.nb.html)  
+베이지안통계학 수업을 들으면서 예제, 과제와 코드를 정리한 R Notebook이다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
 
 
 #### • 다변량 통계분석
 
-[MVA - pt.1](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/MVA.nb.html)  
-[MVA - pt.2](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/MVA2.nb.html)  
-[MVA - pt.3](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/MVA3.nb.html)  
-[MVA - pt.4](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/MVA4.nb.html)  
+[MVA - pt.1](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA.nb.html)  
+[MVA - pt.2](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA2.nb.html)  
+[MVA - pt.3](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA3.nb.html)  
+[MVA - pt.4](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA4.nb.html)  
+[MVA - pt.5](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA5.nb.html)  
 다변량 통계분석 수업을 들으면서 예제와 코드를 정리한 R Notebook이다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
@@ -108,7 +102,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 
 #### • 시계열분석 과제 모음 
 
-[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/Timeseries.nb.html)  
+[R Notebook](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/Timeseries.nb.html)  
 시계열분석 수업을 들으면서 수행한 과제들을 하나의 R Notebook으로 정리하였다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
@@ -116,7 +110,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 
 #### • 데이터마이닝 예제 및 코드 모음 
 
-[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/Studies/blob/main/datamining_notebook.nb.html)  
+[R Notebook](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/datamining_notebook.nb.html)  
 데이터마이닝 수업에서 사용된 모델들의 예제 및 코드를 하나의 R Notebook으로 정리하였다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
 <br/>
