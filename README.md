@@ -21,7 +21,7 @@
 
 #### • 가족 관련 가치관이 저출산에 미치는 영향 분석
 
-[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/R-Fertility/blob/main/Fertility_Analysis.nb.html)  
+[R Notebook](https://rawcdn.githack.com/jaeyonggy/R-Fertility/16dc5b5b2e6c955986c5d6c4ce44cd96f8cbec79/Fertility_Analysis.nb.html)  
 통계청의 2021년 통계청논문공모전에 참여하여 통계청에서 제공하는 '가족실태조사(2015)' 데이터를 활용하였다. 이 데이터에는 가족과 관련된 문항들에 대한 응답들이 있었고 이들을 독립변수로 두고 자녀유무를 종속변수로 두어 Logistic Regression을 수행하였다.  
 자세한 내용은 [GitHub repository](https://github.com/jaeyonggy/R-Fertility)에서 확인 바랍니다.  
 <br/>
@@ -29,7 +29,7 @@
 
 #### • 서울 코로나19 확진자 시계열 분석
 
-[R Notebook](https://htmlpreview.github.io/?https://github.com/jaeyonggy/TimeSeries-SeoulCovid-19/blob/main/Seoul_covid19_Timeseries.nb.html)  
+[R Notebook](https://rawcdn.githack.com/jaeyonggy/TimeSeries-SeoulCovid-19/d95605a465171fe029b8cafb99da6c417574076b/Seoul_covid19_Timeseries.nb.html)  
 서울시에서 제공하는 코로나19 확진자 현황 데이터를 가지고 ARIMA 모델을 간단하게 구현해 보았다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/TimeSeries-SeoulCovid-19)에서 확인 바랍니다.  
 <br/>
