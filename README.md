@@ -90,13 +90,13 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 
 #### • 다변량 통계분석
 
-[1장: 다변량 데이터/ 2장: 기초행렬대수/ 3장: 다변량 확률표본/ 4장: 다변량 정규분포](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA.nb.html)  
+[1장: 다변량 데이터 / 2장: 기초행렬대수 / 3장: 다변량 확률표본 / 4장: 다변량 정규분포](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA.nb.html)  
 [5장: 모집다 평균벡터에 관한 추론](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA2.nb.html)  
 [6장: 다변량 분산분석](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA3.nb.html)  
 [7장: 주성분분석](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/MVA4.nb.html)  
-[8장: 인자분석/ 9장: 정준상관분석](https://rawcdn.githack.com/jaeyonggy/Studies/2d7a9776bc75fbbd9e0217a53a71f1c2ffad2791/MVA5.nb.html)  
+[8장: 인자분석 / 9장: 정준상관분석](https://rawcdn.githack.com/jaeyonggy/Studies/2d7a9776bc75fbbd9e0217a53a71f1c2ffad2791/MVA5.nb.html)  
 [10장: 판별분석과 분류](https://rawcdn.githack.com/jaeyonggy/Studies/1179796d44f3135fe32fa453b25831f1e8e4dc8c/MVA6.nb.html)  
-[11장: 군집분석/ 12장: 다차원 척도법](https://rawcdn.githack.com/jaeyonggy/Studies/501359794b5992561e309e3d451137d4a1e2fc7a/MVA7.nb.html)  
+[11장: 군집분석 / 12장: 다차원 척도법](https://rawcdn.githack.com/jaeyonggy/Studies/501359794b5992561e309e3d451137d4a1e2fc7a/MVA7.nb.html)  
 [13장: 확인적 인자분석 및 구조방정식 모형](https://rawcdn.githack.com/jaeyonggy/Studies/af7202e305b4e86d003b3e1e5f3305f1f5aa2d5e/MVA8.nb.html)  
 [14장: 반복측정데이터 분석](https://rawcdn.githack.com/jaeyonggy/Studies/c3c7ff4443fc53b30dc290b3788ddc420242b6f6/MVA9.nb.html)  
 다변량 통계분석 수업을 들으면서 예제와 코드를 정리한 R Notebook이다.  
