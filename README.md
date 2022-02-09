@@ -66,7 +66,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 #### • Album Recommendation System using Image Similarity (이미지 유사도 기반 앨범 추천 시스템)  
 
 [Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/J.pdf)  
-[Presentationb](https://www.youtube.com/watch?v=ff_UeduK5lk)  
+[Presentation](https://www.youtube.com/watch?v=ff_UeduK5lk)  
 [Poster](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/poster/J.pdf)  
 
 기존 음악 추천 시스템과 달리 앨범 커버라는 시각적 데이터를 사용하여 음악 추천 시스템을 구현하였다.  
