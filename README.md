@@ -59,6 +59,18 @@ zindi.africa에서 주최한 bloods.ai의 Blood Spectroscopy Classification Chal
 CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행한 프로젝트
 
 
+#### • Album Recommendation System using Image Similarity(이미지 유사도 기반 앨범 추천 시스템)  
+
+[Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/J.pdf)  
+[Presentationb](https://www.youtube.com/watch?v=ff_UeduK5lk)  
+[Poster](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/poster/J.pdf)  
+
+기존 음악 추천 시스템과 달리 앨범 커버라는 시각적 데이터를 사용하여 음악 추천 시스템을 구현하였다.  
+사용자가 선호하는 앨범들의 앨범 커버(Album cover)와 그 앨범의 감정(angry, happy, relaxed, sad)을 입력받는다. YOLO와 k-means를 이용하여 입력받은 앨범과 같은 감정을 가진 앨범 중 객체 및 색채를 기준으로 앨범 커버의 유사도가 높은 앨범 5종을 추천한다.  
+자세한 내용은 [Github Repository](https://github.com/CUAI-CAU/Recommend-By-Album-Covers)에서 확인 바랍니다.  
+<br/>
+
+
 #### • 뉴스 기사 제목을 활용한 주가 변동여부 예측
 
 [예측 모델 - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/tfidf_title_to_pred.ipynb)  
