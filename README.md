@@ -59,7 +59,7 @@ zindi.africa에서 주최한 bloods.ai의 Blood Spectroscopy Classification Chal
 CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행한 프로젝트
 
 
-#### • Album Recommendation System Using Image Similarity (이미지 유사도 기반 앨범 추천 시스템)
+#### • Album Recommendation System Based On Image Similarity (이미지 유사도 기반 앨범 추천 시스템)
 
 [Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/J.pdf)  
 [Presentation](https://www.youtube.com/watch?v=ff_UeduK5lk)  
