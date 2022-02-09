@@ -76,7 +76,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 [기사제목 추출 - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_title.ipynb)  
 [주가변동 데이터 추출 - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_stock.ipynb)  
 [데이터 통합 - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_merge.ipynb)  
-특정 주식과 관련된 기사 제목이 다음 날의 주가에 주는 영향을 예측하고자 하였다. Webscraping을 특정 주식의 주가변동여부라는 범주형 변수와 기사제목을 추출하였고, 기사제목으 주가변동여부를 예측하는 모형을 구현하였다.  
+특정 주식과 관련된 기사 제목이 다음 날의 주가에 주는 영향을 예측하고자 하였다. Webscraping을 특정 주식의 주가변동여부라는 범주형 변수와 기사제목을 추출하였고, 기사제목의 주가변동여부를 예측하는 모형을 구현하였다.  
 자세한 내용은 [Github Repository](https://github.com/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction)에서 확인 바랍니다.  
 <br/>
 
