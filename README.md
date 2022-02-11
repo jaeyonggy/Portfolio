@@ -7,7 +7,7 @@
 ## Contents
 
 • Personal Projects  
-• CUAI(중앙대학교 인공지능 학회)  
+• CUAI(Chung-Ang Univ. Artifical Intelligence) - 중앙대학교 인공지능 학회  
 • Studies 
 
 <br/>
@@ -16,7 +16,7 @@
 
 ## Personal Projects
 
-개인 관심사 및 공모전을 위해 진행한 프로젝트
+Projects I have done out of my own interest or for participations in competitions.
 
 
 #### • 가족 관련 가치관이 저출산에 미치는 영향 분석
@@ -54,9 +54,9 @@ zindi.africa에서 주최한 bloods.ai의 Blood Spectroscopy Classification Chal
 
 
 
-## CUAI(중앙대학교 인공지능 학회)
+## CUAI(Chung-Ang Univ. Artifical Intelligence) - 중앙대학교 인공지능 학회  
 
-CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행한 프로젝트
+The projects I have done as a member of the 4th season(2021) of CUAI(Chung-Ang Univ. Artifical Intelligence).
 
 
 #### • Album Recommendation System Based On Image Similarity (이미지 유사도 기반 앨범 추천 시스템)
