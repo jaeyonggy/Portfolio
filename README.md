@@ -19,7 +19,7 @@
 Projects I have done out of my own interest or for participations in competitions.
 
 
-#### • The impact of values associated to family on low fertility rate - 가족 관련 가치관이 저출산에 미치는 영향 분석
+#### • The impact of values associated with family on low fertility rate - 가족 관련 가치관이 저출산에 미치는 영향 분석
 
 [R Notebook](https://rawcdn.githack.com/jaeyonggy/R-Fertility/16dc5b5b2e6c955986c5d6c4ce44cd96f8cbec79/Fertility_Analysis.nb.html)  
 I participated in a '2021 research paper competition'(2021년 통계청논문공모전) held by Statistics Korea(통계청) and used the data '가족실태조사(2015)'. The data contained one's various answers to questions related to family and its values. I set the answers to these questions as predictors and whether or not one has a child as a response variable and performed a logistic regression.  
