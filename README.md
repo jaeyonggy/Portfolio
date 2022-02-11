@@ -131,6 +131,16 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 <br/>
 
 
+#### • Basic R Statistics
+
+[Hypothesis Testing](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/HypothesisTesting.nb.html)  
+[Categorical Data Analysis](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/categorical.nb.html)  
+[Simple Linear Regression](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/SimpleLinearRegression.nb.html)  
+A collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석 - 이윤환'.
+자세한 내용은 [Github Repository](https://github.com/jaeyonggy/Studies)에서 확인 바랍니다.  
+<br/>
+
+
 #### • Hands on machine learning
 
 [Ch02. End-to-end ML project - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/02_end_to_end_machine_learning_project.ipynb)  
