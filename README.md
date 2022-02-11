@@ -102,7 +102,7 @@ CUAI(중앙대학교 인공지능 학회)의 4기(2021) 일원으로서 진행�
 #### • 다변량 통계분석
 
 [1장: 다변량 데이터 / 2장: 기초행렬대수 / 3장: 다변량 확률표본 / 4장: 다변량 정규분포](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA.nb.html)  
-[5장: 모집다 평균벡터에 관한 추론](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA2.nb.html)  
+[5장: 모집단 평균벡터에 관한 추론](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA2.nb.html)  
 [6장: 다변량 분산분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA3.nb.html)  
 [7장: 주성분분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA4.nb.html)  
 [8장: 인자분석 / 9장: 정준상관분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA5.nb.html)  
