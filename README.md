@@ -109,7 +109,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [11장: 군집분석 / 12장: 다차원 척도법](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA7.nb.html)  
 [13장: 확인적 인자분석 및 구조방정식 모형](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA8.nb.html)  
 [14장: 반복측정데이터 분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA9.nb.html)  
-a collection of R Notebooks that include all the examples and codes that were used during Multivariate Statistical Analysis class.  
+A collection of R Notebooks that include all the examples and codes that were used during Multivariate Statistical Analysis class.  
 Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
 
