@@ -27,7 +27,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/R-Fertility) for more
 <br/>
 
 
-#### • 서울 코로나19 확진자 시계열 분석
+#### • Time Series Analysis on Covid-19 confirmed cases in Seoul
 
 [R Notebook](https://rawcdn.githack.com/jaeyonggy/TimeSeries-SeoulCovid-19/d95605a465171fe029b8cafb99da6c417574076b/Seoul_covid19_Timeseries.nb.html)  
 I wanted to make use of a time series data of Covid-19 confirmed cases provided by the city of Seoul and I used ARIMA model.  
@@ -35,7 +35,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/TimeSeries-SeoulCovid
 <br/>
 
 
-#### • r/depression 텍스트 분석
+#### • r/depression Text Anaylsis
 
 [Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Project-RedditDepressionTextAnalysis/blob/main/depression_text_analysis.ipynb)  
 I performed a text analysis with posts from a subreddit called r/depression.  
@@ -59,7 +59,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Zindi_Classification)
 The projects I have done as a member of the 4th season(2021) of CUAI(Chung-Ang Univ. Artifical Intelligence).
 
 
-#### • Album Recommendation System Based On Image Similarity (이미지 유사도 기반 앨범 추천 시스템)
+#### • Album Recommendation System Based On Image Similarity - 이미지 유사도 기반 앨범 추천 시스템
 
 [Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/J.pdf)  
 [Presentation](https://www.youtube.com/watch?v=ff_UeduK5lk)  
