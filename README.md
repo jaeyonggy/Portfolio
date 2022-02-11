@@ -135,7 +135,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [Hypothesis Testing](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/HypothesisTesting.nb.html)  
 [Categorical Data Analysis](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/categorical.nb.html)  
 [Simple Linear Regression](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/SimpleLinearRegression.nb.html)  
-A collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석 - 이윤환'.
+A collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석 - 이윤환'.  
 Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
 
