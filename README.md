@@ -24,6 +24,12 @@ I'm currently pursuing a Master's degree in Statistics at Chung-Ang University w
 I was a member of Chung-Ang University GAS(Global Ambassador Scholarship)(중앙대학교 국제처 학생대사) from July 2020 to June 2021.  
 I was a member of CUAI(Chung-Ang University Artificial Intelligence - 중앙대학교 인공지능 학회) from March 2021 to February 2022.  
 
+I am proficient in Python and R.  
+<br/>
+
+
+Feel free to contact me via email.  
+
 This page archives all the projects I have done so far.  
 <br/>
 
