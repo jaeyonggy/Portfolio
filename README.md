@@ -6,9 +6,11 @@
 
 ## About Me
 
-![Uploading 2.jpg…]()
+![2](https://user-images.githubusercontent.com/63530964/153692511-7fed973f-fcb5-48f2-8dc2-970b81c83749.jpg)
 
 Jaeyong Lee(이재용) / Email: i.am.jaeyong.lee@gmail.com
+<br/>
+
 
 I am a statistician interested in Bayesian Statistics and AI.
 
