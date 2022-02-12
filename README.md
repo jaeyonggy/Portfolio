@@ -1,7 +1,7 @@
 ## Data Science Portfolio
 
 [GitHub](https://github.com/jaeyonggy)  
-[LinkedIn](www.linkedin.com/in/jaeyonglee5)  
+[LinkedIn](https://www.linkedin.com/in/jaeyonglee5)  
 
 
 
