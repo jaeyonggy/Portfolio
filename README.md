@@ -6,7 +6,7 @@
 
 ## About Me
 
-![2](https://user-images.githubusercontent.com/63530964/153692511-7fed973f-fcb5-48f2-8dc2-970b81c83749.jpg)
+<img width="171" alt="ss" src="https://user-images.githubusercontent.com/63530964/153692586-913f1ee5-65cc-4992-83bb-fc8d672a251a.png">
 
 Jaeyong Lee(이재용) / Email: i.am.jaeyong.lee@gmail.com
 <br/>
