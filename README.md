@@ -6,20 +6,22 @@
 
 ## About Me
 
-<img width="171" alt="ss" src="https://user-images.githubusercontent.com/63530964/153692586-913f1ee5-65cc-4992-83bb-fc8d672a251a.png">
-
-Jaeyong Lee(이재용) / Email: i.am.jaeyong.lee@gmail.com
+<p align="center">
+  <img width="171" alt="ss" src="https://user-images.githubusercontent.com/63530964/153692586-913f1ee5-65cc-4992-83bb-fc8d672a251a.png">
+<p align="center">
+  Jaeyong Lee(이재용) / Email: i.am.jaeyong.lee@gmail.com  
 <br/>
 
 
-I am a statistician interested in Bayesian Statistics and AI.
+I am a statistician interested in Bayesian Statistics and AI.  
 
-I received my Bachelor's degree in Applied Statistics at Chung-Ang University on February, 2022. I'm currently pursuing a Master's degree in Statistics at Chung-Ang University(CAU) with full scholarship by CAU GRS(Graduate Research Scholarship).
+I received my Bachelor's degree in Applied Statistics at Chung-Ang University on February, 2022.  
+I'm currently pursuing a Master's degree in Statistics at Chung-Ang University(CAU) with full scholarship by CAU GRS(Graduate Research Scholarship).  
 
-I was a recipient of Chung-Ang University GAS(Global Ambassador Scholarship)(중앙대학교 국제처 학생대사) from July 2020 to June 2021.
-I was a member of Chung-Ang University Artificial Intelligence(중앙대학교 인공지능 학회) from March 2021 to February 2022.
+I was a recipient of Chung-Ang University GAS(Global Ambassador Scholarship)(중앙대학교 국제처 학생대사) from July 2020 to June 2021.  
+I was a member of Chung-Ang University Artificial Intelligence(중앙대학교 인공지능 학회) from March 2021 to February 2022.  
 
-This page archives all the projects I have done so far.
+This page archives all the projects I have done so far.  
 <br/>
 
 
