@@ -6,6 +6,10 @@
 
 ## About Me
 
+![Uploading 2.jpg…]()
+
+Jaeyong Lee(이재용) / Email: i.am.jaeyong.lee@gmail.com
+
 I am a statistician interested in Bayesian Statistics and AI.
 
 I received my Bachelor's degree in Applied Statistics at Chung-Ang University on February, 2022. I'm currently pursuing a Master's degree in Statistics at Chung-Ang University(CAU) with full scholarship by CAU GRS(Graduate Research Scholarship).
