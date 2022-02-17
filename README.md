@@ -145,6 +145,14 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 <br/>
 
 
+#### • R in Action
+
+[Ch.8 Regression](https://rawcdn.githack.com/jaeyonggy/Studies/14584f2c4baa7a5b52877816fd2ce31937a4f562/RInAction/Regression.nb.html)  
+A collection of R Notebooks that I've written while studying 'R in Action' by Rob Kabacoff.
+Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
+<br/>
+
+
 #### • Time Series Analysis
 
 [R Notebook](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/Timeseries.nb.html)  
