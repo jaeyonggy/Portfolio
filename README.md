@@ -174,7 +174,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [Hypothesis Testing](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/HypothesisTesting.nb.html)  
 [Categorical Data Analysis](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/categorical.nb.html)  
 [Simple Linear Regression](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/SimpleLinearRegression.nb.html)  
-A collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석 - 이윤환'.  
+A collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석' by 이윤환.  
 Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
 
@@ -189,7 +189,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [Ch13. Loading and preprocessing data - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/13_loading_and_preprocessing_data.ipynb)  
 [Ch14. Deep computer vision with CNNs - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/14_deep_computer_vision_with_cnns.ipynb)  
 [Ch15. Preprocessing sequences using RNNs and CNNs - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/ML/15_processing_sequences_using_rnns_and_cnns.ipynb)  
-A collection of Jupyter Notebooks that I've used studying Hands-on machine learning with scikit-learn and tensorflow 2nd edition.  
+A collection of Jupyter Notebooks that I've used studying 'Hands-on machine learning with scikit-learn and tensorflow 2nd edition' by Aurélien Géron.  
 Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
 
