@@ -147,8 +147,9 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 
 #### • R in Action
 
-[Ch.8 Regression](https://rawcdn.githack.com/jaeyonggy/Studies/14584f2c4baa7a5b52877816fd2ce31937a4f562/RInAction/Regression.nb.html)  
-[Ch.9 Analysis of variance](https://rawcdn.githack.com/jaeyonggy/Studies/582862b0948c367d8eaa64b60d7a72b33f873043/RInAction/anova.nb.html)  
+[Ch.8 Regression](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/Regression.nb.html)  
+[Ch.9 Analysis of variance](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/anova.nb.html)  
+[Ch.10 Power analysis](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/power_analysis.nb.html)  
 A collection of R Notebooks that I've written while studying 'R in Action' by Rob Kabacoff.  
 Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
