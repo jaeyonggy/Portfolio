@@ -147,6 +147,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 
 #### • R in Action
 
+[Ch.7 Basic statistics](https://rawcdn.githack.com/jaeyonggy/Studies/ddedb95f4675d0d030acdc2231389bd60843dc79/RInAction/stats.nb.html)  
 [Ch.8 Regression](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/Regression.nb.html)  
 [Ch.9 Analysis of variance](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/anova.nb.html)  
 [Ch.10 Power analysis](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/power_analysis.nb.html)  
