@@ -18,7 +18,7 @@
 
 I am a statistician interested in Bayesian Statistics and AI.  
 
-I received my Bachelor's degree in Applied Statistics at Chung-Ang University on February, 2022.  
+I received a Bachelor's degree in Applied Statistics and a Bachelor's degree in Software Humanities at Chung-Ang University on February, 2022.  
 I'm currently pursuing a Master's degree in Statistics at Chung-Ang University with full scholarship from Chung-Ang University GRS(Graduate Research Scholarship).  
 
 I was a member of Chung-Ang University GAS(Global Ambassador Scholarship - 중앙대학교 국제처 학생대사) from July 2020 to June 2021.  
