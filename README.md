@@ -39,7 +39,7 @@ This page archives all the projects I have done so far.
 
 • Personal Projects  
 • CUAI(Chung-Ang Univ. Artifical Intelligence) - 중앙대학교 인공지능 학회  
-• Studies 
+• Studies  
 
 <br/>
 
