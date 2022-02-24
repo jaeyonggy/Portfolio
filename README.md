@@ -31,6 +31,7 @@ I am proficient in Python and R.
 Feel free to contact me via email.  
 
 This page archives all the projects I have done so far.  
+
 <br/>
 
 
