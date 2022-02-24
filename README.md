@@ -50,22 +50,6 @@ This page archives all the projects I have done so far.
 Projects I have done out of my own interest or for participations in competitions.
 
 
-#### • The impact of values associated with family on low fertility rate - 가족 관련 가치관이 저출산에 미치는 영향 분석
-
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/R-Fertility/16dc5b5b2e6c955986c5d6c4ce44cd96f8cbec79/Fertility_Analysis.nb.html)  
-I participated in a '2021 research paper competition'(2021년 통계청논문공모전) held by Statistics Korea(통계청) and used the data '가족실태조사(2015)'. The data contained one's various answers to questions related to family and its values. I set the answers to these questions as predictors and whether or not one has a child as a response variable and performed a logistic regression.  
-Check out [GitHub repository](https://github.com/jaeyonggy/R-Fertility) for more information.  
-<br/>
-
-
-#### • Time Series Analysis on Covid-19 confirmed cases in Seoul
-
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/TimeSeries-SeoulCovid-19/d95605a465171fe029b8cafb99da6c417574076b/Seoul_covid19_Timeseries.nb.html)  
-I wanted to make use of a time series data of Covid-19 confirmed cases provided by the city of Seoul and I used ARIMA model.  
-Check out [GitHub repository](https://github.com/jaeyonggy/TimeSeries-SeoulCovid-19) for more information.  
-<br/>
-
-
 #### • r/depression Text Anaylsis
 
 [Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Project-RedditDepressionTextAnalysis/blob/main/depression_text_analysis.ipynb)  
@@ -154,6 +138,8 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [Ch.11 Intermediate graphs](https://rawcdn.githack.com/jaeyonggy/Studies/a7df1d6b836a3d7bf7b4af13d064beb4f7974586/RInAction/inter-graphs.nb.html)  
 [Ch.12 Resampling statistics and bootstrapping](https://rawcdn.githack.com/jaeyonggy/Studies/7b60c865f9500b09ae250bac5f496b4510515007/RInAction/resampling.nb.html)  
 [Ch.13 Generalized linear models](https://rawcdn.githack.com/jaeyonggy/Studies/75f88cddc0d010ef238280941699e29168eaf64a/RInAction/glm.nb.html)  
+[Ch.14 Principal components and factor analysis](https://rawcdn.githack.com/jaeyonggy/Studies/20b8abd84d689c7ae989979b18bcc5f04cdbe05a/RInAction/pcfa.nb.html)  
+[Ch.15 Advanced methods for missing data](https://rawcdn.githack.com/jaeyonggy/Studies/20b8abd84d689c7ae989979b18bcc5f04cdbe05a/RInAction/missingdata.nb.html)  
 A collection of R Notebooks that I've written while studying 'R in Action' by Rob Kabacoff.  
 Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
