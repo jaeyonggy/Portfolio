@@ -148,17 +148,17 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 
 #### • Forecasting: Principles and Practice
 
-[Ch.2 Time series graphics](https://rawcdn.githack.com/jaeyonggy/Studies/80d25642757bd03886245fab7bf9c7c8b05a27ba/Forecasting:PrinciplesAndPractices/TS.nb.html)  
+[Ch.2 Time series graphics](https://rawcdn.githack.com/jaeyonggy/FPP/722511ea0da625f26c12dc56e52a2a6656e7f442/TS.nb.html)  
 A collection of R Notebooks that I've written while studying 'Forecasting: Principles and Practice 2nd ed' by Rob J Hyndman and George Athanasopoulos.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
+Check out [GitHub repository](https://github.com/jaeyonggy/FPP) for more information.  
 <br/>
 
 
 #### • Deep Learning with Python
 
-[Ch.2 The mathematical building blocks of neural networks](https://nbviewer.org/github/jaeyonggy/Studies/blob/main/DeepLearningWithPython/chapter02_mathematical-building-blocks.ipynb)  
+[Ch.2 The mathematical building blocks of neural networks](https://nbviewer.org/github/jaeyonggy/DP_Py/blob/main/chapter02_mathematical_building_blocks.ipynb)  
 A collection of Jupyter Notebooks that I've used while studying 'Deep Learning with Python 2nd ed' by François Chollet.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
+Check out [GitHub repository](https://github.com/jaeyonggy/DP_Py) for more information.  
 <br/>
 
 
