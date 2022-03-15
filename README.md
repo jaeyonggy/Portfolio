@@ -114,6 +114,13 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 <br/>
 
 
+#### • Bayesian Computation with R
+
+[Ch.2 Introduction to Bayesian thinking](https://rawcdn.githack.com/jaeyonggy/BCR/6524fc38e944398d192280d936243956576de8e5/BCR.nb.html)  
+A collection of R Notebooks that I've written while studying 'Bayesian Computation with R' by Jim Albert.  
+<br/>
+
+
 #### • Multivariate Statistical Anaylsis
 
 [1장: 다변량 데이터 / 2장: 기초행렬대수 / 3장: 다변량 확률표본 / 4장: 다변량 정규분포](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA.nb.html)  
