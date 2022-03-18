@@ -165,6 +165,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/FPP) for more informa
 #### • Deep Learning with Python
 
 [Ch.2 The mathematical building blocks of neural networks](https://nbviewer.org/github/jaeyonggy/DP_Py/blob/main/chapter02_mathematical_building_blocks.ipynb)  
+[Ch.3 Introduction to Keras and TensorFLow](https://nbviewer.org/github/jaeyonggy/DP_Py/blob/main/chapter03_introduction_to_keras_and_tf.ipynb)  
 A collection of Jupyter Notebooks that I've used while studying 'Deep Learning with Python 2nd ed' by François Chollet.  
 Check out [GitHub repository](https://github.com/jaeyonggy/DP_Py) for more information.  
 <br/>
