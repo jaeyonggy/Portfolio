@@ -118,6 +118,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 
 [Ch.2 Introduction to Bayesian thinking](https://rawcdn.githack.com/jaeyonggy/BCR/6524fc38e944398d192280d936243956576de8e5/BCR.nb.html)  
 [Ch.3 Single-parameter models](https://rawcdn.githack.com/jaeyonggy/BCR/5a30e60b1841d77ff576bb4a6459e3747436d6df/BCR_ch3.nb.html)  
+[Ch.4 Multiparameter models](https://rawcdn.githack.com/jaeyonggy/BCR/49f19692ee94767109df53c41a5790c02aec7ad8/BCR_ch4.nb.html)  
 A collection of R Notebooks that I've written while studying 'Bayesian Computation with R' by Jim Albert.  
 <br/>
 
