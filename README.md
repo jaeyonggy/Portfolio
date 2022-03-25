@@ -121,7 +121,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [Ch.4 Multiparameter models](https://rawcdn.githack.com/jaeyonggy/BCR/49f19692ee94767109df53c41a5790c02aec7ad8/BCR_ch4.nb.html)  
 [Ch.5 Introduction to Bayesian computation](https://rawcdn.githack.com/jaeyonggy/BCR/828227475b4ef93c0e30412510fd1e13a877b7dd/BCR_ch5.nb.html)  
 [Ch.6 Markov Chain Monte Carlo methods](https://rawcdn.githack.com/jaeyonggy/BCR/828227475b4ef93c0e30412510fd1e13a877b7dd/BCR_ch6.nb.html)  
-[Ch.7 Hierarchical modeling](https://rawcdn.githack.com/jaeyonggy/BCR/828227475b4ef93c0e30412510fd1e13a877b7dd/BCR_ch7.nb.html)  
+[Ch.7 Hierarchical modeling](https://rawcdn.githack.com/jaeyonggy/BCR/f739b145c8ef73bc78ca2e12cd606c7b3919595f/BCR_ch7.nb.html)  
 A collection of R Notebooks that I've written while studying 'Bayesian Computation with R' by Jim Albert.  
 <br/>
 
