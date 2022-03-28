@@ -162,6 +162,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 
 [Ch.2 Time series graphics](https://rawcdn.githack.com/jaeyonggy/FPP/722511ea0da625f26c12dc56e52a2a6656e7f442/TS.nb.html)  
 [Ch.3 The forecaster's toolbox](https://rawcdn.githack.com/jaeyonggy/FPP/898c0a52a09426982c566478e2144f939fee8e1f/TS_3.nb.html)  
+[Ch.6 Time series decomposition](https://rawcdn.githack.com/jaeyonggy/FPP/cada105d46ab3eb25a689cc52acb8235310da4d3/TS_6.nb.html)  
 A collection of R Notebooks that I've written while studying 'Forecasting: Principles and Practice 2nd ed' by Rob J Hyndman and George Athanasopoulos.  
 Check out [GitHub repository](https://github.com/jaeyonggy/FPP) for more information.  
 <br/>
@@ -171,6 +172,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/FPP) for more informa
 
 [Ch.2 The mathematical building blocks of neural networks](https://nbviewer.org/github/jaeyonggy/DP_Py/blob/main/chapter02_mathematical_building_blocks.ipynb)  
 [Ch.3 Introduction to Keras and TensorFLow](https://nbviewer.org/github/jaeyonggy/DP_Py/blob/main/chapter03_introduction_to_keras_and_tf.ipynb)  
+[Ch.4 Getting started with neural networks](https://nbviewer.org/github/jaeyonggy/DP_Py/blob/main/chapter04_getting_started_with_neural_networks.ipynb)  
 A collection of Jupyter Notebooks that I've used while studying 'Deep Learning with Python 2nd ed' by François Chollet.  
 Check out [GitHub repository](https://github.com/jaeyonggy/DP_Py) for more information.  
 <br/>
