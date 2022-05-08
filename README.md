@@ -53,7 +53,7 @@ Projects I have done out of my own interest or for participations in competition
 
 #### • Time series analysis on fish production of Busan
 
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/FPP/98a2074ac3482e03268c9ddea7de4ee804950ccc/HW1.html)  
+[R Notebook](https://rawcdn.githack.com/jaeyonggy/FPP/8010587d82718bc83bd340b875951c91352a56db/HW1.html)  
 I performed a time series analysis with the fish production time series data of Busan. This was done as a HW to the '빅데이터수요예측' class.  
 Check out [GitHub repository](https://github.com/jaeyonggy/FPP) for more information.  
 <br/>
