@@ -166,6 +166,15 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 <br/>
 
 
+#### • Hidden Markov models for time series
+
+[Ch.1 Preliminaries: mixtures and Markov chains](https://rawcdn.githack.com/jaeyonggy/HMM/f8d41722020e60950eb7982601bdd7fcf7b385c6/HMM.nb.html)  
+[Ch.2 Hidden Markov models: definition and properties](https://rawcdn.githack.com/jaeyonggy/HMM/f8d41722020e60950eb7982601bdd7fcf7b385c6/HMM_ch2.nb.html)  
+A collection of R Notebooks that I've written while studying 'Hidden Markov models for time series an introduction using R' by Zucchini et al.
+Check out [GitHub repository](https://github.com/jaeyonggy/HMM) for more information.  
+<br/>
+
+
 #### • Forecasting: Principles and Practice
 
 [Ch.2 Time series graphics](https://rawcdn.githack.com/jaeyonggy/FPP/722511ea0da625f26c12dc56e52a2a6656e7f442/TS.nb.html)  
