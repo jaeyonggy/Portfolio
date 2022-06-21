@@ -112,6 +112,7 @@ Check out [GitHub repository](https://github.com/CUAI-CAU/Recommend-By-Album-Cov
 [Scraping headlines - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_title.ipynb)  
 [Scraping stock price data - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_stock.ipynb)  
 [Merging data - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_merge.ipynb)   
+
 Our team wanted to predict whether or not a stock's price increases based on an article's headline. We utilized webscraping to get various headlines of some specific stocks and their stock price at the end of a market the day after the headline was written. We implemented a classification model to predict and assessed its performance.  
 Check out [GitHub repository](https://github.com/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction) for more information.  
 <br/>
