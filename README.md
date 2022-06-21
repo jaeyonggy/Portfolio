@@ -140,6 +140,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [Ch.6 Markov Chain Monte Carlo methods](https://rawcdn.githack.com/jaeyonggy/BCR/828227475b4ef93c0e30412510fd1e13a877b7dd/BCR_ch6.nb.html)  
 [Ch.7 Hierarchical modeling](https://rawcdn.githack.com/jaeyonggy/BCR/f739b145c8ef73bc78ca2e12cd606c7b3919595f/BCR_ch7.nb.html)  
 A collection of R Notebooks that I've written while studying 'Bayesian Computation with R' by Jim Albert.  
+Check out [GitHub repository](https://github.com/jaeyonggy/BCR) for more information.  
 <br/>
 
 
