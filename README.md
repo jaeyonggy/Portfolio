@@ -101,6 +101,7 @@ The projects I have done as a member of the 4th season(2021) of CUAI(Chung-Ang U
 [Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/J.pdf)  
 [Presentation](https://www.youtube.com/watch?v=ff_UeduK5lk)  
 [Poster](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/poster/J.pdf)  
+
 Our team has managed to implement a music recommendation system based on image similarity. The system gets a user's preferred album's album cover and the album's emotions(one of angry, happy, relaxed and sad) as inputs. By YOLO and k-means models, we output 5 albums that is pre-classified as the same emotion as the input's whose album covers are the most similar to the input's album cover.  
 Check out [GitHub repository](https://github.com/CUAI-CAU/Recommend-By-Album-Covers) for more information.  
 <br/>
