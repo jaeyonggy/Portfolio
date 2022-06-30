@@ -186,22 +186,6 @@ Check out [GitHub repository](https://github.com/jaeyonggy/HMM) for more informa
 <br/>
 
 
-#### • Time Series Analysis
-
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/Timeseries.nb.html)  
-An R Notebook that contains all the assignments done for the Time Series Analysis class.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
-<br/>
-
-
-#### • Datamining
-
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/Studies/af145c5bf560ee27a645edb24839470229a7a38d/datamining_notebook.nb.html)  
-An R Notebook that contains all the models that were studied during the Datamining class. This includes most of known regression and classification models as well as some deep learning models.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
-<br/>
-
-
 #### • Basic R Statistics
 
 [Hypothesis Testing](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/HypothesisTesting.nb.html)  
