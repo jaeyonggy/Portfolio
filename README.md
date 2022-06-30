@@ -56,7 +56,7 @@ Projects I have done out of my own interest or for participations in competition
 [Implementation of image classification in PyTorch](https://github.com/jaeyonggy/CVproject/tree/main/PT)  
 [Implementation of Grad-CAM in TensorFlow](https://github.com/jaeyonggy/CVproject/tree/main/TF)  
 A project done while participating in [Image classification challenge](https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge) hosted by Zindi.africa. The classification itself was not challenging so Grad-CAM technique was used to obtain heatmaps of each image in addition. I compared how the two models (EfficientNet-B0 and ResNet-50) viewed the images and where they focused on while classifying the images. I wanted to see on which part of image the models focused on when they misclassified it and if there was any difference between the two models on which part of images they focused on.  
-Check out [GitHub repository]([https://github.com/jaeyonggy/FPP](https://github.com/jaeyonggy/CVproject)) for more information.  
+Check out [GitHub repository](https://github.com/jaeyonggy/CVproject) for more information.  
 <br/>
 
 
