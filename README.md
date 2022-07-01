@@ -62,9 +62,9 @@ Check out [GitHub repository](https://github.com/jaeyonggy/CVproject) for more i
 
 #### • Time series analysis on fish production of Busan
 
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/FPP/8010587d82718bc83bd340b875951c91352a56db/HW1.html)  
+[R Notebook](https://rawcdn.githack.com/jaeyonggy/Studies/d463577b07f001091e6eb970e60c7a2bd4fc9d99/HW1.html)  
 I performed a time series analysis with the fish production time series data of Busan.  
-Check out [GitHub repository](https://github.com/jaeyonggy/FPP) for more information.  
+Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
 
 
