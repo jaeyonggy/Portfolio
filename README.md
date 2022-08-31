@@ -115,10 +115,10 @@ Our team has managed to implement a music recommendation system based on image s
 
 #### • Predicting change in stock price using news' headlines - 뉴스 기사 제목을 활용한 주가 변동여부 예측
 
-[Prediction model - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/tfidf_title_to_pred.ipynb)  
-[Scraping headlines - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_title.ipynb)  
-[Scraping stock price data - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_stock.ipynb)  
-[Merging data - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_merge.ipynb)   
+[Prediction model](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/tfidf_title_to_pred.ipynb)  
+[Scraping headlines](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_title.ipynb)  
+[Scraping stock price data](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_stock.ipynb)  
+[Merging data](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_merge.ipynb)   
 Our team wanted to predict whether or not a stock's price increases based on an article's headline. We utilized webscraping to get various headlines of some specific stocks and their stock price at the end of a market the day after the headline was written. We implemented a classification model to predict and assessed its performance.  
 <br/>
 
