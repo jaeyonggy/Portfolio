@@ -38,7 +38,7 @@ This page archives all the projects I have done so far.
 
 ## Contents
 
-• Personal Projects  
+• Projects  
 • CUAI(Chung-Ang Univ. Artifical Intelligence) - 중앙대학교 인공지능 학회  
 • Studies  
 
@@ -46,7 +46,7 @@ This page archives all the projects I have done so far.
 
 
 
-## Personal Projects
+## Projects
 
 Projects I have done out of my own interest or for participations in competitions.
 
