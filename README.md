@@ -89,14 +89,22 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Zindi_Classification)
 
 ## CUAI(Chung-Ang Univ. Artifical Intelligence) - 중앙대학교 인공지능 학회  
 
-The projects I have done as a member of the 4th season(2021) of CUAI(Chung-Ang Univ. Artifical Intelligence).
+The projects I have done as a member of CUAI(Chung-Ang Univ. Artifical Intelligence).
+
+
+#### • Text generation for academic papers's introduction - 논문 서론 작성 AI
+
+[Paper](https://github.com/CUAI-CAU/2022-CUAI-Summer-Conference/blob/main/paper/2022_CUAI_Summer_Conference_Shortpaper_NLP_T12.pdf)  
+[Presentation](https://www.youtube.com/watch?v=oGnbYiWPBSE)  
+We trained a text generation model, specifically KoGPT2, on a series of papers' introduction part. By giving a sentence as an input, the model generated several sentences which would form a full paragraph based on the input sentence. We also paraphrased the generated sentences to avoid any plagiarism. We expect the users to easily write a full introduction by coming up with only a few sentences with this model.  
+Check out [GitHub repository](https://github.com/jaeyonggy/2022_Summer_NLP_T12) for more information.  
+<br/>
 
 
 #### • Album Recommendation System Based On Image Similarity - 이미지 유사도 기반 앨범 추천 시스템
 
 [Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/J.pdf)  
 [Presentation](https://www.youtube.com/watch?v=ff_UeduK5lk)  
-[Poster](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/poster/J.pdf)  
 Our team has managed to implement a music recommendation system based on image similarity. The system gets a user's preferred album's album cover and the album's emotions(one of angry, happy, relaxed and sad) as inputs. By YOLO and k-means models, we output 5 albums that is pre-classified as the same emotion as the input's whose album covers are the most similar to the input's album cover.  
 Check out [GitHub repository](https://github.com/CUAI-CAU/Recommend-By-Album-Covers) for more information.  
 <br/>
