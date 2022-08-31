@@ -97,7 +97,7 @@ The projects I have done as a member of CUAI(Chung-Ang Univ. Artifical Intellige
 
 #### • Text generation for academic papers's introduction - 논문 서론 작성 AI
 
-[Github Repository]([GitHub repository](https://github.com/jaeyonggy/2022_Summer_NLP_T12))  
+[Github Repository](https://github.com/jaeyonggy/2022_Summer_NLP_T12)  
 [Paper](https://github.com/CUAI-CAU/2022-CUAI-Summer-Conference/blob/main/paper/2022_CUAI_Summer_Conference_Shortpaper_NLP_T12.pdf)  
 [Presentation](https://www.youtube.com/watch?v=oGnbYiWPBSE)  
 We trained a text generation model, specifically KoGPT2, on a series of papers' introduction part. By giving a sentence as an input, the model generated several sentences which would form a full paragraph based on the input sentence. We also paraphrased the generated sentences to avoid any plagiarism. We expect the users to easily write a full introduction by coming up with only a few sentences with this model.  
