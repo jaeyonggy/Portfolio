@@ -55,7 +55,6 @@ Projects I have done out of my own interest or for participations in competition
 
 [R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/b74c63a1328d9164f9c244b3abaeec1a8d4163c2/young_child_yesorno.nb.html)  
 A project done while participating in 2022 통계청논문공모전. A Bayesian hierarchical beta-binomial model was used to estimate proportions of young people not planning on having a child in South Korea. With the advantage of Bayesian hierarchical models' information pooling effects, a more robust and accurate estimates of the proportions were measured. JAGS was used to simulate MCMC samples and various visualizations were employed for inferences and analysis.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Projects) for more information.  
 <br/>
 
 
@@ -64,7 +63,6 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Projects) for more in
 [Implementation of image classification in PyTorch](https://github.com/jaeyonggy/CVproject/tree/main/PT)  
 [Implementation of Grad-CAM in TensorFlow](https://github.com/jaeyonggy/CVproject/tree/main/TF)  
 A project done while participating in [Image classification challenge](https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge) hosted by Zindi.africa. The classification itself was not challenging so Grad-CAM technique was used to obtain heatmaps of each image in addition. I compared how the two models (EfficientNet-B0 and ResNet-50) viewed the images and where they focused on while classifying the images. I wanted to see on which part of image the models focused on when they misclassified it and if there was any difference between the two models on which part of images they focused on.  
-Check out [GitHub repository](https://github.com/jaeyonggy/CVproject) for more information.  
 <br/>
 
 
@@ -72,7 +70,6 @@ Check out [GitHub repository](https://github.com/jaeyonggy/CVproject) for more i
 
 [R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/1d280d77a28d9ac6ba66ae1f20be96ff72d299ed/TS.html)  
 I performed a time series analysis with the fish production time series data of Busan.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Projects) for more information.  
 <br/>
 
 
@@ -80,7 +77,6 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Projects) for more in
 
 [Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Project-RedditDepressionTextAnalysis/blob/main/depression_text_analysis.ipynb)  
 I performed a text analysis with posts from a subreddit called r/depression.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Project-RedditDepressionTextAnalysis) for more information.  
 <br/>
 
 
@@ -88,7 +84,6 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Project-RedditDepress
 
 [Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Zindi_Classification/blob/main/pca_rf_xgb_cv_final.ipynb)  
 I participated in a competition called Blood Spectroscopy Classification Challenge hosted by zindi.africa. It was a mutliclass classification problem and preventing overfitting was of the utmost importance.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Zindi_Classification) for more information.  
 <br/>
 
 <br/>
@@ -102,19 +97,19 @@ The projects I have done as a member of CUAI(Chung-Ang Univ. Artifical Intellige
 
 #### • Text generation for academic papers's introduction - 논문 서론 작성 AI
 
+[Github Repository]([GitHub repository](https://github.com/jaeyonggy/2022_Summer_NLP_T12))  
 [Paper](https://github.com/CUAI-CAU/2022-CUAI-Summer-Conference/blob/main/paper/2022_CUAI_Summer_Conference_Shortpaper_NLP_T12.pdf)  
 [Presentation](https://www.youtube.com/watch?v=oGnbYiWPBSE)  
 We trained a text generation model, specifically KoGPT2, on a series of papers' introduction part. By giving a sentence as an input, the model generated several sentences which would form a full paragraph based on the input sentence. We also paraphrased the generated sentences to avoid any plagiarism. We expect the users to easily write a full introduction by coming up with only a few sentences with this model.  
-Check out [GitHub repository](https://github.com/jaeyonggy/2022_Summer_NLP_T12) for more information.  
 <br/>
 
 
 #### • Album Recommendation System Based On Image Similarity - 이미지 유사도 기반 앨범 추천 시스템
 
+[GitHub repository](https://github.com/CUAI-CAU/Recommend-By-Album-Covers)  
 [Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/J.pdf)  
 [Presentation](https://www.youtube.com/watch?v=ff_UeduK5lk)  
 Our team has managed to implement a music recommendation system based on image similarity. The system gets a user's preferred album's album cover and the album's emotions(one of angry, happy, relaxed and sad) as inputs. By YOLO and k-means models, we output 5 albums that is pre-classified as the same emotion as the input's whose album covers are the most similar to the input's album cover.  
-Check out [GitHub repository](https://github.com/CUAI-CAU/Recommend-By-Album-Covers) for more information.  
 <br/>
 
 
@@ -125,7 +120,6 @@ Check out [GitHub repository](https://github.com/CUAI-CAU/Recommend-By-Album-Cov
 [Scraping stock price data - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_stock.ipynb)  
 [Merging data - Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_merge.ipynb)   
 Our team wanted to predict whether or not a stock's price increases based on an article's headline. We utilized webscraping to get various headlines of some specific stocks and their stock price at the end of a market the day after the headline was written. We implemented a classification model to predict and assessed its performance.  
-Check out [GitHub repository](https://github.com/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction) for more information.  
 <br/>
 
 <br/>
@@ -143,20 +137,6 @@ The R Notebooks and Jupyter notebooks I have written while studying for some Sta
 [Bayesian Statistics - pt.2](https://rawcdn.githack.com/jaeyonggy/Studies/5678ff76fc1a549193c28ab9ed5b3df4d09e3291/Bayesian/Bayesian_pt2.nb.html)  
 [Bayesian Statistics Assignment](https://rawcdn.githack.com/jaeyonggy/Studies/5678ff76fc1a549193c28ab9ed5b3df4d09e3291/Bayesian/Bayes_HW.nb.html)  
 A collection of R Notebooks that includes all the examples and codes that were used during Bayesian Statistics class.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
-<br/>
-
-
-#### • Bayesian Computation with R
-
-[Ch.2 Introduction to Bayesian thinking](https://rawcdn.githack.com/jaeyonggy/BCR/6524fc38e944398d192280d936243956576de8e5/BCR.nb.html)  
-[Ch.3 Single-parameter models](https://rawcdn.githack.com/jaeyonggy/BCR/5a30e60b1841d77ff576bb4a6459e3747436d6df/BCR_ch3.nb.html)  
-[Ch.4 Multiparameter models](https://rawcdn.githack.com/jaeyonggy/BCR/49f19692ee94767109df53c41a5790c02aec7ad8/BCR_ch4.nb.html)  
-[Ch.5 Introduction to Bayesian computation](https://rawcdn.githack.com/jaeyonggy/BCR/828227475b4ef93c0e30412510fd1e13a877b7dd/BCR_ch5.nb.html)  
-[Ch.6 Markov Chain Monte Carlo methods](https://rawcdn.githack.com/jaeyonggy/BCR/828227475b4ef93c0e30412510fd1e13a877b7dd/BCR_ch6.nb.html)  
-[Ch.7 Hierarchical modeling](https://rawcdn.githack.com/jaeyonggy/BCR/f739b145c8ef73bc78ca2e12cd606c7b3919595f/BCR_ch7.nb.html)  
-A collection of R Notebooks that I've written while studying 'Bayesian Computation with R' by Jim Albert.  
-Check out [GitHub repository](https://github.com/jaeyonggy/BCR) for more information.  
 <br/>
 
 
@@ -172,7 +152,6 @@ Check out [GitHub repository](https://github.com/jaeyonggy/BCR) for more informa
 [13장: 확인적 인자분석 및 구조방정식 모형](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA8.nb.html)  
 [14장: 반복측정데이터 분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA9.nb.html)  
 A collection of R Notebooks that include all the examples and codes that were used during Multivariate Statistical Analysis class.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
 
 
@@ -188,7 +167,6 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [Ch.14 Principal components and factor analysis](https://rawcdn.githack.com/jaeyonggy/Studies/20b8abd84d689c7ae989979b18bcc5f04cdbe05a/RInAction/pcfa.nb.html)  
 [Ch.15 Advanced methods for missing data](https://rawcdn.githack.com/jaeyonggy/Studies/20b8abd84d689c7ae989979b18bcc5f04cdbe05a/RInAction/missingdata.nb.html)  
 A collection of R Notebooks that I've written while studying 'R in Action' by Rob Kabacoff.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
 
 
@@ -197,8 +175,7 @@ Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more inf
 [Ch.1 Preliminaries: mixtures and Markov chains](https://rawcdn.githack.com/jaeyonggy/HMM/f8d41722020e60950eb7982601bdd7fcf7b385c6/HMM.nb.html)  
 [Ch.2 Hidden Markov models: definition and properties](https://rawcdn.githack.com/jaeyonggy/HMM/f8d41722020e60950eb7982601bdd7fcf7b385c6/HMM_ch2.nb.html)  
 [HMM paper](https://rawcdn.githack.com/jaeyonggy/HMM/6978acd327ef2328295f64254275d827703aeb4b/HMM_paper.nb.html)  
-A collection of R Notebooks that I've written while studying 'Hidden Markov models for time series an introduction using R' by Zucchini et al.  
-Check out [GitHub repository](https://github.com/jaeyonggy/HMM) for more information.  
+A collection of R Notebooks that I've written while studying 'Hidden Markov models for time series an introduction using R' by Zucchini et al. 
 <br/>
 
 
@@ -208,7 +185,6 @@ Check out [GitHub repository](https://github.com/jaeyonggy/HMM) for more informa
 [Categorical Data Analysis](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/categorical.nb.html)  
 [Simple Linear Regression](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/SimpleLinearRegression.nb.html)  
 A collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석' by 이윤환.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
 <br/>
 
 <br/>
