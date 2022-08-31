@@ -51,6 +51,14 @@ This page archives all the projects I have done so far.
 Projects I have done out of my own interest or for participations in competitions.
 
 
+#### • Bayesian hierarchical modeling to estimate proportions of young people not planning on having a child in South Korea
+
+[R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/b74c63a1328d9164f9c244b3abaeec1a8d4163c2/young_child_yesorno.nb.html)  
+A project done while participating in 2022 통계청논문공모전. A Bayesian hierarchical beta-binomial model was used to estimate proportions of young people not planning on having a child in South Korea. With the advantage of Bayesian hierarchical models' information pooling effects, a more robust and accurate estimates of the proportions were measured. JAGS was used to simulate MCMC samples and various visualizations were employed for inferences and analysis.  
+Check out [GitHub repository](https://github.com/jaeyonggy/Projects) for more information.  
+<br/>
+
+
 #### • Image classification and Grad-CAM of infected leaf images
 
 [Implementation of image classification in PyTorch](https://github.com/jaeyonggy/CVproject/tree/main/PT)  
@@ -62,9 +70,9 @@ Check out [GitHub repository](https://github.com/jaeyonggy/CVproject) for more i
 
 #### • Time series analysis on fish production of Busan
 
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/Studies/d463577b07f001091e6eb970e60c7a2bd4fc9d99/HW1.html)  
+[R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/1d280d77a28d9ac6ba66ae1f20be96ff72d299ed/TS.html)  
 I performed a time series analysis with the fish production time series data of Busan.  
-Check out [GitHub repository](https://github.com/jaeyonggy/Studies) for more information.  
+Check out [GitHub repository](https://github.com/jaeyonggy/Projects) for more information.  
 <br/>
 
 
