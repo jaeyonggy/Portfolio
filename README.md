@@ -75,14 +75,14 @@ I performed a time series analysis with the fish production time series data of 
 
 #### • r/depression Text Anaylsis
 
-[Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Project-RedditDepressionTextAnalysis/blob/main/depression_text_analysis.ipynb)  
+[Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Projects/blob/main/depression_text_analysis.ipynb)  
 I performed a text analysis with posts from a subreddit called r/depression.  
 <br/>
 
 
 #### • bloods.ai Blood Spectroscopy Classification Challenge
 
-[Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Zindi_Classification/blob/main/pca_rf_xgb_cv_final.ipynb)  
+[Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Projects/blob/main/pca_rf_xgb_cv_final.ipynb)  
 I participated in a competition called Blood Spectroscopy Classification Challenge hosted by zindi.africa. It was a mutliclass classification problem and preventing overfitting was of the utmost importance.  
 <br/>
 
