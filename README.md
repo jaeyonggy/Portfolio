@@ -38,9 +38,18 @@ This page archives all the projects I have done so far.
 
 ## Contents
 
+• Awards  
 • Projects  
 • CUAI(Chung-Ang Univ. Artifical Intelligence) - 중앙대학교 인공지능 학회  
 • Studies  
+
+<br/>
+
+
+
+## Awards
+
+#### • 2022년 문화·관광 데이터 분석대회 최우수상
 
 <br/>
 
