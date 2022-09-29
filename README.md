@@ -50,14 +50,6 @@ This page archives all the projects I have done so far.
 
 Projects I have done out of my own interest or for participations in competitions.
 
-
-#### • 2022년 문화·관광 데이터 분석대회(Data analysis competition hosted by Korea Culture and Tourism Institute)
-
-[2022년 문화·관광 데이터 분석대회 수상 확인 알림(최우수상)](https://github.com/jaeyonggy/Portfolio/blob/main/miscellaneous/2022년 문화관광 데이터 분석대회 수상 확인 알림(최우수상).pdf)  
-2022년 문화·관광 데이터 분석대회에 "스포츠 활동 및 산업 활성화 방안(스포츠 관련 데이터 분석을 통한 수요 증대 방법 제안)"이라는 주제로 참가하였다. 분석에 사용한 데이터는 국민여가활동조사(2021), 신한카드 데이터(2022), 체육시설 데이터(2022)이다. 국민여가활동조사 데이터를 분석하며 한번이라도 스포츠를 경험한 여부와 스포츠를 취미활동으로 희망하는 여부 간에 양의 상관관계를 확인할 수 있었다. 이를 바탕으로 '스포츠비경험자'를 '스포츠경험자'로 만든다면 스포츠 참여율을 증대시킬 수 있다고 가정하였다. 신한카드 데이터를 통해 소비자의 특성 중 연령대, 성별, 거주지에 따라 알맞는 스포츠를 추천해주는 추천시스템을 구현하였다. 마지막으로, 스포츠를 기피하는 이유 중 하나인 접근성 부족의 원인을 파악하기 위해 체육시설 데이터를 이용하여 지역별 지도에 체육시설을 시각화하였고 체육시설들이 중심지에만 과도하게 분포가 되어있음을 확인하였다.  
-<br/>
-
-
 #### • Bayesian hierarchical modeling to estimate proportions of young people not planning on having a child in South Korea
 
 [R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/b74c63a1328d9164f9c244b3abaeec1a8d4163c2/young_child_yesorno.nb.html)  
