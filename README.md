@@ -64,6 +64,13 @@ Projects I have done out of my own interest or for participations in competition
 <br/>
 
 
+#### • Data analysis of ordinal categorical outcomes
+
+[PDF](https://github.com/jaeyonggy/Projects/blob/main/analysis.pdf)  
+Dataset used for analysis is from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce which contains the review score given to a product by customers and various covariates. I was especially interested in the covariates, product photos quantities, freight price, and difference between actual delivery time and estimated delivery time. Exploratory data analysis was conducted to explore the relationship between the review score and the covariates of interest. Ordered probit regression was used to model the review score with the covariates. Marginal effects were calculated to see the effects of the covariates on the probabilities of each ordered categorical outcome.  
+<br/>
+
+
 #### • Bayesian hierarchical modeling to estimate proportions of young people not planning on having a child in South Korea
 
 [R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/b74c63a1328d9164f9c244b3abaeec1a8d4163c2/young_child_yesorno.nb.html)  
