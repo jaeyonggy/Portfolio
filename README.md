@@ -64,7 +64,7 @@ Projects I have done out of my own interest or for participations in competition
 <br/>
 
 
-#### • Data analysis of ordinal categorical outcomes
+#### • Data analysis of ordered categorical outcomes
 
 [PDF](https://github.com/jaeyonggy/Projects/blob/main/analysis.pdf)  
 Dataset used for analysis is from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce which contains the review score given to a product by customers and various covariates. I was especially interested in the covariates, product photos quantities, freight price, and difference between actual delivery time and estimated delivery time. Exploratory data analysis was conducted to explore the relationship between the review score and the covariates of interest. Ordered probit regression was used to model the review score with the covariates. Marginal effects were calculated to see the effects of the covariates on the probabilities of each ordered categorical outcome.  
@@ -205,6 +205,13 @@ A collection of R Notebooks that I've written while studying 'Hidden Markov mode
 [Tan and Roy (2019) - pt.2](https://github.com/jaeyonggy/Studies/blob/main/BART/BART2019-review2.pdf)  
 [Hill (2011)](https://github.com/jaeyonggy/Studies/blob/main/BART/BART_bio.pdf)  
 A collection of PPT that I've made while studying papers related to Bayesian additive regression trees (BART).  
+<br/>
+
+
+#### • Bayesian hierarchical clustering (BHC)
+
+[Heller and Ghahramani(2005)](https://github.com/jaeyonggy/Studies/blob/main/다변량발표_이재용.pdf)  
+A PPT that I've made while studying a paper related to Bayesian hierarchical clustering (BHC).  
 <br/>
 
 
