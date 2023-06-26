@@ -148,7 +148,7 @@ Our team wanted to predict whether or not a stock's price increases based on an 
 
 ## Studies
 
-The R Notebooks and Jupyter notebooks I have written while studying for some Statistics classes and any other topic of interests.
+Studies I have done for statistics classes, research, or any other topic of interests.
 
 
 #### • Bayesian Statistics
@@ -190,12 +190,21 @@ A collection of R Notebooks that I've written while studying 'R in Action' by Ro
 <br/>
 
 
-#### • Hidden Markov models for time series
+#### • Hidden Markov models (HMM) for time series
 
 [Ch.1 Preliminaries: mixtures and Markov chains](https://rawcdn.githack.com/jaeyonggy/HMM/f8d41722020e60950eb7982601bdd7fcf7b385c6/HMM.nb.html)  
 [Ch.2 Hidden Markov models: definition and properties](https://rawcdn.githack.com/jaeyonggy/HMM/f8d41722020e60950eb7982601bdd7fcf7b385c6/HMM_ch2.nb.html)  
 [HMM paper](https://rawcdn.githack.com/jaeyonggy/HMM/6978acd327ef2328295f64254275d827703aeb4b/HMM_paper.nb.html)  
 A collection of R Notebooks that I've written while studying 'Hidden Markov models for time series an introduction using R' by Zucchini et al.  
+<br/>
+
+
+#### • Bayesian additive regression trees (BART)
+
+[Tan and Roy (2019) - pt.1](https://github.com/jaeyonggy/Studies/blob/main/BART/BART2019-review.pdf)  
+[Tan and Roy (2019) - pt.2](https://github.com/jaeyonggy/Studies/blob/main/BART/BART2019-review2.pdf)  
+[Hill (2011)](https://github.com/jaeyonggy/Studies/blob/main/BART/BART_bio.pdf)  
+A collection of PPT that I've made while studying papers related to Bayesian additive regression trees (BART).  
 <br/>
 
 
