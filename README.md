@@ -210,7 +210,7 @@ A collection of PPT that I've made while studying papers related to Bayesian add
 
 #### • Bayesian hierarchical clustering (BHC)
 
-[Heller and Ghahramani (2005)](https://github.com/jaeyonggy/Studies/blob/main/다변량발표_이재용.pdf)  
+[Heller and Ghahramani (2005)](https://github.com/jaeyonggy/Studies/blob/main/BHC.pdf)  
 A PPT that I've made while studying a paper related to Bayesian hierarchical clustering (BHC).  
 <br/>
 
