@@ -66,7 +66,8 @@ Projects I have done out of my own interest or for participations in competition
 
 #### • Data analysis of ordered categorical outcomes
 
-[PDF](https://github.com/jaeyonggy/Projects/blob/main/analysis.pdf)  
+[Data preprocessing](https://rawcdn.githack.com/jaeyonggy/Projects/b52eb0231ba68baabdfbc64d3d7351f2ed91cac9/data_preprocessing.nb.html)  
+[Data analysis](https://github.com/jaeyonggy/Projects/blob/main/analysis.pdf)  
 Dataset used for analysis is from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce which contains the review score given to a product by customers and various covariates. I was especially interested in the covariates, product photos quantities, freight price, and difference between actual delivery time and estimated delivery time. Exploratory data analysis was conducted to explore the relationship between the review score and the covariates of interest. Ordered probit regression was used to model the review score with the covariates. Marginal effects were calculated to see the effects of the covariates on the probabilities of each ordered categorical outcome.  
 <br/>
 
@@ -156,7 +157,8 @@ Studies I have done for statistics classes, research, or any other topic of inte
 [Bayesian Statistics - pt.1](https://rawcdn.githack.com/jaeyonggy/Studies/5678ff76fc1a549193c28ab9ed5b3df4d09e3291/Bayesian/Bayesian.nb.html)  
 [Bayesian Statistics - pt.2](https://rawcdn.githack.com/jaeyonggy/Studies/5678ff76fc1a549193c28ab9ed5b3df4d09e3291/Bayesian/Bayesian_pt2.nb.html)  
 [Bayesian Statistics Assignment](https://rawcdn.githack.com/jaeyonggy/Studies/5678ff76fc1a549193c28ab9ed5b3df4d09e3291/Bayesian/Bayes_HW.nb.html)  
-A collection of R Notebooks that includes all the examples and codes that were used during Bayesian Statistics class.  
+[Slice sampler](https://github.com/jaeyonggy/Studies/blob/main/Bayesian/slicesampler.pdf)  
+A collection of codes and notes I made while studying for classes or anything related to Bayesian statistics.  
 <br/>
 
 
