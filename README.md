@@ -68,7 +68,7 @@ Projects I have done out of my own interest or for participations in competition
 
 [Data preprocessing](https://rawcdn.githack.com/jaeyonggy/Projects/b52eb0231ba68baabdfbc64d3d7351f2ed91cac9/data_preprocessing.nb.html)  
 [Data analysis](https://github.com/jaeyonggy/Projects/blob/main/analysis.pdf)  
-Dataset used for analysis is from https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce which contains the review score given to a product by customers and various covariates. I was especially interested in the covariates, product photos quantities, freight price, and difference between actual delivery time and estimated delivery time. Exploratory data analysis was conducted to explore the relationship between the review score and the covariates of interest. Ordered probit regression was used to model the review score with the covariates. Marginal effects were calculated to see the effects of the covariates on the probabilities of each ordered categorical outcome.  
+Dataset used for analysis is [Brazilian ecommerce public dataset of orders made at Olist Store](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) which contains the review score given to a product by customers and various covariates. I was especially interested in the covariates, product photos quantities, freight price, and difference between actual delivery time and estimated delivery time. Exploratory data analysis was conducted to explore the relationship between the review score and the covariates of interest. Ordered probit regression was used to model the review score with the covariates. Marginal effects were calculated to see the effects of the covariates on the probabilities of each ordered categorical outcome.  
 <br/>
 
 
