@@ -90,21 +90,7 @@ A project done while participating in [Image classification challenge](https://z
 #### • Time series analysis on fish production of Busan
 
 [R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/1d280d77a28d9ac6ba66ae1f20be96ff72d299ed/TS.html)  
-I performed a time series analysis with the fish production time series data of Busan.  
-<br/>
-
-
-#### • r/depression Text Anaylsis
-
-[Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Projects/blob/main/depression_text_analysis.ipynb)  
-I performed a text analysis with posts from a subreddit called r/depression.  
-<br/>
-
-
-#### • bloods.ai Blood Spectroscopy Classification Challenge
-
-[Jupyter Notebook](https://nbviewer.org/github/jaeyonggy/Projects/blob/main/pca_rf_xgb_cv_final.ipynb)  
-I participated in a competition called Blood Spectroscopy Classification Challenge hosted by zindi.africa. It was a mutliclass classification problem and preventing overfitting was of the utmost importance.  
+I performed a time series analysis with the fish production time series data of Busan. The dataset was analyzed using seasonal naive model, STL decomposition, and exponential smoothing model. The results by each model were compared in the end.  
 <br/>
 
 <br/>
