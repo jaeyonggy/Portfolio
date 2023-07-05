@@ -11,7 +11,7 @@
   <img width="171" alt="ss" src="https://user-images.githubusercontent.com/63530964/153692586-913f1ee5-65cc-4992-83bb-fc8d672a251a.png">
 </p>
 <p align="center">
-  Jaeyong Lee(이재용) / Email: i.am.jaeyong.lee@gmail.com  
+  Jaeyong Lee(이재용) / Email: jaeyonggy@cau.ac.kr  
 </p>
 <br/>
 
