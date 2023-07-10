@@ -143,7 +143,7 @@ Studies I have done for statistics classes, research, or any other topic of inte
 [Bayesian Statistics - pt.1](https://rawcdn.githack.com/jaeyonggy/Studies/5678ff76fc1a549193c28ab9ed5b3df4d09e3291/Bayesian/Bayesian.nb.html)  
 [Bayesian Statistics - pt.2](https://rawcdn.githack.com/jaeyonggy/Studies/5678ff76fc1a549193c28ab9ed5b3df4d09e3291/Bayesian/Bayesian_pt2.nb.html)  
 [Bayesian Statistics Assignment](https://rawcdn.githack.com/jaeyonggy/Studies/5678ff76fc1a549193c28ab9ed5b3df4d09e3291/Bayesian/Bayes_HW.nb.html)  
-[Slice sampler](https://github.com/jaeyonggy/Studies/blob/main/Bayesian/slicesampler.pdf)  
+[Slice sampler](https://rawcdn.githack.com/jaeyonggy/Studies/25e14e5db26138ed54f4622694562c311074b29f/Bayesian/slice.nb.html)  
 [Dirichlet process mixture](https://github.com/jaeyonggy/Studies/blob/main/Bayesian/DPM.pdf)  
 A collection of codes and notes I made while studying for classes or anything related to Bayesian statistics.  
 <br/>
