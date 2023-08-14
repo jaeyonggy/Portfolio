@@ -16,7 +16,7 @@
 <br/>
 
 
-I am a statistician interested in Bayesian Statistics and AI.  
+I am a data scientist with many research experience in **Bayesian statistics** and **AI**.  
 
 I received a Bachelor's degree in Applied Statistics and a Bachelor's degree in Software Humanities at Chung-Ang University on February, 2022.  
 I'm currently pursuing a Master's degree in Statistics at Chung-Ang University with full scholarship from Chung-Ang University GRS (Graduate Research Scholarship).  
@@ -38,14 +38,14 @@ This page archives all the projects I have done so far.
 
 ## Contents
 
-• Projects  
+• [Projects](#projects)  
 • CUAI (Chung-Ang Univ. Artifical Intelligence - 중앙대학교 인공지능 학회)  
 • Studies  
 
 <br/>
 
 
-
+<a name="projects"></a>
 ## Projects
 
 Projects I have done out of my own interest or for participations in competitions.
