@@ -39,30 +39,17 @@ This page archives all the projects I have done so far.
 ## Contents
 
 • [Projects](#projects)  
-• CUAI (Chung-Ang Univ. Artifical Intelligence - 중앙대학교 인공지능 학회)  
-• Studies  
+• [CUAI (Chung-Ang Univ. Artifical Intelligence - 중앙대학교 인공지능 학회)](#cuai)  
+• [Studies](#studies)  
 
 <br/>
+
 
 
 <a name="projects"></a>
 ## Projects
 
 Projects I have done out of my own interest or for participations in competitions.
-
-#### • 디지털 활용 관광 산업발전 BI (Business Idea) 경진대회 우수상 (Data analysis competition hosted by Jeju Technopark and organized by Dacon)
-
-[수상작 ipynb - 제주도 여행, 렌트카만 안타면 더 배부른 여행!](https://dacon.io/competitions/official/236012/codeshare/7092?page=1&dtype=random)  
-본 팀은 렌트카를 탈 수 밖에 없는 제주도 관광의 문제점, 특히나 제주도 버스의 문제점에 대해 관심을 가지게 되었다. 관광객들이 비싼 렌트카를 빌리지 않아 절약한 경비는 여행 시 다른 데에서 쓰일 수 있다. 30대 미만의 연령층에서 ‘음식/미식 탐방’을 여행 고려요인으로 중요시하는 것을 보면 절약된 경비는 식음료업에서 쓰일 가능성이 높다. 이를 위해 본 팀은 다음의 데이터 분석을 수행하였다. (1) 제주도 내국인관광객 카드 데이터를 분석하여 관광객들이 주로 어디에 소비를 하는지를 연령대별로 알아보기. (2) 제주도 버스정류장 데이터를 분석하여 제주도 버스의 문제점이 무엇인지 알아보기. (3) 제주도 렌트카 이동경로를 분석하여 관광객들이 주로 어디로 이동하는지 알아보기. (4) 제주도의 음식점 데이터를 분석하여 맛집들이 주로 어디에 분포되어 있는지를 알아보기. 마지막으로 위 데이터 분석결과를 정리하고 이에 대한 활용방안 및 기대효과를 제시하였다.  
-<br/>
-
-
-#### • 2022년 문화·관광 데이터 분석대회 최우수상 (Data analysis competition hosted by Korea Culture and Tourism Institute)
-
-[수상작 PPT - 스포츠 활동 및 산업 활성화 방안](http://www.tourbigdata.kr/award.asp)  
-2022년 문화·관광 데이터 분석대회에 "스포츠 활동 및 산업 활성화 방안 (스포츠 관련 데이터 분석을 통한 수요 증대 방법 제안)"이라는 주제로 참가하였다. 분석에 사용한 데이터는 국민여가활동조사 (2021), 신한카드 데이터 (2022), 체육시설 데이터 (2022)이다. 국민여가활동조사 데이터를 분석하며 한번이라도 스포츠를 경험한 여부와 스포츠를 취미활동으로 희망하는 여부 간에 양의 상관관계를 확인할 수 있었다. 이를 바탕으로 '스포츠비경험자'를 '스포츠경험자'로 만든다면 스포츠 참여율을 증대시킬 수 있다고 가정하였다. 신한카드 데이터를 통해 소비자의 특성 중 연령대, 성별, 거주지에 따라 알맞는 스포츠를 추천해주는 추천시스템을 구현하였다. 마지막으로, 스포츠를 기피하는 이유 중 하나인 접근성 부족의 원인을 파악하기 위해 체육시설 데이터를 이용하여 지역별 지도에 체육시설을 시각화하였고 체육시설들이 중심지에만 과도하게 분포가 되어있음을 확인하였다.  
-<br/>
-
 
 #### • Causal inference of the effect of participation in sports on the interest in sports as a hobby
 
@@ -76,6 +63,20 @@ I analyzed [2021년 국민여가 활동조사](https://policydb.kcti.re.kr/#/sur
 [Data preprocessing](https://rawcdn.githack.com/jaeyonggy/Projects/b52eb0231ba68baabdfbc64d3d7351f2ed91cac9/data_preprocessing.nb.html)  
 [Data analysis](https://github.com/jaeyonggy/Projects/blob/main/analysis.pdf)  
 Dataset used for analysis is [Brazilian ecommerce public dataset of orders made at Olist Store](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) which contains the review score given to a product by customers and various covariates. I was especially interested in the covariates, product photos quantities, freight price, and difference between actual delivery time and estimated delivery time. Exploratory data analysis was conducted to explore the relationship between the review score and the covariates of interest. Ordered probit regression was used to model the review score with the covariates. Marginal effects were calculated to see the effects of the covariates on the probabilities of each ordered categorical outcome.  
+<br/>
+
+
+#### • 디지털 활용 관광 산업발전 BI (Business Idea) 경진대회 우수상 (Data analysis competition hosted by Jeju Technopark and organized by Dacon)
+
+[수상작 ipynb - 제주도 여행, 렌트카만 안타면 더 배부른 여행!](https://dacon.io/competitions/official/236012/codeshare/7092?page=1&dtype=random)  
+본 팀은 렌트카를 탈 수 밖에 없는 제주도 관광의 문제점, 특히나 제주도 버스의 문제점에 대해 관심을 가지게 되었다. 관광객들이 비싼 렌트카를 빌리지 않아 절약한 경비는 여행 시 다른 데에서 쓰일 수 있다. 30대 미만의 연령층에서 ‘음식/미식 탐방’을 여행 고려요인으로 중요시하는 것을 보면 절약된 경비는 식음료업에서 쓰일 가능성이 높다. 이를 위해 본 팀은 다음의 데이터 분석을 수행하였다. (1) 제주도 내국인관광객 카드 데이터를 분석하여 관광객들이 주로 어디에 소비를 하는지를 연령대별로 알아보기. (2) 제주도 버스정류장 데이터를 분석하여 제주도 버스의 문제점이 무엇인지 알아보기. (3) 제주도 렌트카 이동경로를 분석하여 관광객들이 주로 어디로 이동하는지 알아보기. (4) 제주도의 음식점 데이터를 분석하여 맛집들이 주로 어디에 분포되어 있는지를 알아보기. 마지막으로 위 데이터 분석결과를 정리하고 이에 대한 활용방안 및 기대효과를 제시하였다.  
+<br/>
+
+
+#### • 2022년 문화·관광 데이터 분석대회 최우수상 (Data analysis competition hosted by Korea Culture and Tourism Institute)
+
+[수상작 PPT - 스포츠 활동 및 산업 활성화 방안](http://www.tourbigdata.kr/award.asp)  
+2022년 문화·관광 데이터 분석대회에 "스포츠 활동 및 산업 활성화 방안 (스포츠 관련 데이터 분석을 통한 수요 증대 방법 제안)"이라는 주제로 참가하였다. 분석에 사용한 데이터는 국민여가활동조사 (2021), 신한카드 데이터 (2022), 체육시설 데이터 (2022)이다. 국민여가활동조사 데이터를 분석하며 한번이라도 스포츠를 경험한 여부와 스포츠를 취미활동으로 희망하는 여부 간에 양의 상관관계를 확인할 수 있었다. 이를 바탕으로 '스포츠비경험자'를 '스포츠경험자'로 만든다면 스포츠 참여율을 증대시킬 수 있다고 가정하였다. 신한카드 데이터를 통해 소비자의 특성 중 연령대, 성별, 거주지에 따라 알맞는 스포츠를 추천해주는 추천시스템을 구현하였다. 마지막으로, 스포츠를 기피하는 이유 중 하나인 접근성 부족의 원인을 파악하기 위해 체육시설 데이터를 이용하여 지역별 지도에 체육시설을 시각화하였고 체육시설들이 중심지에만 과도하게 분포가 되어있음을 확인하였다.  
 <br/>
 
 
@@ -104,6 +105,7 @@ I performed a time series analysis with the fish production time series data of 
 
 
 
+<a name="cuai"></a>
 ## CUAI (Chung-Ang Univ. Artifical Intelligence - 중앙대학교 인공지능 학회)  
 
 The projects I have done as a member of CUAI (Chung-Ang Univ. Artifical Intelligence).
@@ -140,6 +142,7 @@ Our team wanted to predict whether or not a stock's price increases based on an 
 
 
 
+<a name="studies"></a>
 ## Studies
 
 Studies I have done for statistics classes, research, or any other topic of interests.
