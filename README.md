@@ -64,6 +64,13 @@ Projects I have done out of my own interest or for participations in competition
 <br/>
 
 
+#### • Causal inference of the effect of participation in sports on the interest in sports as a hobby
+
+[R notebook](https://raw.githack.com/jaeyonggy/Projects/main/causal.nb.html)  
+I analyzed [2021년 국민여가 활동조사](https://policydb.kcti.re.kr/#/surveyLeisure4?bbstypecd=3003013&poststatcd=1400) (Korean National Survey on Recreational Activities, 2021) in an attempt to discover causal relationship between sports participation history and interest in sports as a hobby. Since there is a positive correlation between the two variables, I was interested in whether a person having participated in sports before tends to have higher interest in sports as a hobby. Since I am dealing with observational data, propensity score matching (PSM) methodology was used to mitigate the confounding and selection bias in observational studies. In this case, the matching couldn't make the distribution of observed covariates more similar between the two groups. The interpretation of the causal effect was given, while making it clear it is only valid if the assumptions of causal inference was met. Lastly, I explored several options to improve the balance of the observed covariates between the two groups for future research.  
+<br/>
+
+
 #### • Data analysis of ordered categorical outcomes
 
 [Data preprocessing](https://rawcdn.githack.com/jaeyonggy/Projects/b52eb0231ba68baabdfbc64d3d7351f2ed91cac9/data_preprocessing.nb.html)  
