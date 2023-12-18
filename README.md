@@ -27,6 +27,7 @@ This page archives all the projects I have done so far.
 <br/>
 
 
+## Contents
 
 <a name="projects"></a>
 <details>
