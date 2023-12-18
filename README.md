@@ -2,12 +2,13 @@
 
 [GitHub](https://github.com/jaeyonggy)  
 [LinkedIn](https://www.linkedin.com/in/jaeyonglee5)  
-Email: jaeyonggy@cau.ac.kr
+
 
 
 ## About Me
 
-I want to be a data scientist that makes your life comfortable.
+
+**I want to be a data scientist that makes your life comfortable!** 
 <br/>
 
 
@@ -17,36 +18,37 @@ I'm currently pursuing a Master's degree in Statistics at Chung-Ang University w
 I was a member of Chung-Ang University GAS (Global Ambassador Scholarship - 중앙대학교 국제처 학생대사) from July 2020 to June 2021.  
 I was a member of CUAI (Chung-Ang University Artificial Intelligence - 중앙대학교 인공지능 학회) from March 2021 to August 2022.  
 
-I am proficient in Python, R, MySQL, and Tableau.  
+I am proficient in Python, R, and MySQL.  
 <br/>
 
-
-Feel free to contact me via email.  
-
-This page archives all the projects I have done so far.  
 <br/>
+
 
 
 ## Contents
 
-<a name="projects"></a>
-<details>
-<summary><b>Projects</b></summary>
+• [Research](#research)  
+• [Projects from university](#projects)  
 
-Projects I have done out of my own interest or for participations in competitions.
+<br/>
+
+<a name="research"></a>
+## Research
+
+To be filled!
+
+<br/>
+
+
+<a name="projects"></a>
+## Projects
+
+Projects I have done during my years in university. These include simple toy projects for data science, or more serious projects for competitions, and studies for certain subjects.
 
 #### • Causal inference of the effect of participation in sports on the interest in sports as a hobby
 
 [R notebook](https://raw.githack.com/jaeyonggy/Projects/main/causal.nb.html)  
 I analyzed [2021년 국민여가 활동조사](https://policydb.kcti.re.kr/#/surveyLeisure4?bbstypecd=3003013&poststatcd=1400) (Korean National Survey on Recreational Activities, 2021) in an attempt to discover causal relationship between sports participation history and interest in sports as a hobby. Since there is a positive correlation between the two variables, I was interested in whether a person having participated in sports before tends to have higher interest in sports as a hobby. Since I am dealing with observational data, propensity score matching (PSM) methodology was used to mitigate the confounding and selection bias in observational studies. In this case, the matching couldn't make the distribution of observed covariates more similar between the two groups. The interpretation of the causal effect was given, while making it clear it is only valid if the assumptions of causal inference was met. Lastly, I explored several options to improve the balance of the observed covariates between the two groups for future research.  
-<br/>
-
-
-#### • Data analysis of ordered categorical outcomes
-
-[Data preprocessing](https://rawcdn.githack.com/jaeyonggy/Projects/b52eb0231ba68baabdfbc64d3d7351f2ed91cac9/data_preprocessing.nb.html)  
-[Data analysis](https://github.com/jaeyonggy/Projects/blob/main/analysis.pdf)  
-Dataset used for analysis is [Brazilian ecommerce public dataset of orders made at Olist Store](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce) which contains the review score given to a product by customers and various covariates. I was especially interested in the covariates, product photos quantities, freight price, and difference between actual delivery time and estimated delivery time. Exploratory data analysis was conducted to explore the relationship between the review score and the covariates of interest. Ordered probit regression was used to model the review score with the covariates. Marginal effects were calculated to see the effects of the covariates on the probabilities of each ordered categorical outcome.  
 <br/>
 
 
@@ -64,44 +66,11 @@ Dataset used for analysis is [Brazilian ecommerce public dataset of orders made 
 <br/>
 
 
-#### • Bayesian hierarchical modeling to estimate proportions of young people not planning on having a child in South Korea
-
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/b74c63a1328d9164f9c244b3abaeec1a8d4163c2/young_child_yesorno.nb.html)  
-A project done while participating in 2022 통계청논문공모전. A Bayesian hierarchical beta-binomial model was used to estimate proportions of young people not planning on having a child in South Korea. With the advantage of Bayesian hierarchical models' information pooling effects, a more robust and accurate estimates of the proportions were measured. JAGS was used to simulate MCMC samples and various visualizations were employed for inferences and analysis.  
-<br/>
-
-
 #### • Image classification and Grad-CAM of infected leaf images
 
 [Implementation of image classification in PyTorch](https://github.com/jaeyonggy/CVproject/tree/main/PT)  
 [Implementation of Grad-CAM in TensorFlow](https://github.com/jaeyonggy/CVproject/tree/main/TF)  
 A project done while participating in [Image classification challenge](https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge) hosted by Zindi.africa. The classification itself was not challenging so Grad-CAM technique was used to obtain heatmaps of each image in addition. I compared how the two models (EfficientNet-B0 and ResNet-50) viewed the images and where they focused on while classifying the images. I wanted to see on which part of image the models focused on when they misclassified it and if there was any difference between the two models on which part of images they focused on.  
-<br/>
-
-
-#### • Time series analysis on fish production of Busan
-
-[R Notebook](https://rawcdn.githack.com/jaeyonggy/Projects/1d280d77a28d9ac6ba66ae1f20be96ff72d299ed/TS.html)  
-I performed a time series analysis with the fish production time series data of Busan. The dataset was analyzed using seasonal naive model, STL decomposition, and exponential smoothing model. The results by each model were compared in the end.  
-<br/>
-
-<br/>
-</details>
-
-
-<a name="cuai"></a>
-<details>
-<summary><b>CUAI (Chung-Ang Univ. Artificial Intelligence - 중앙대학교 인공지능 학회)</b></summary>
-
-The projects I have done as a member of CUAI (Chung-Ang Univ. Artifical Intelligence).
-
-
-#### • Text generation for academic papers's introduction - 논문 서론 작성 AI
-
-[Repo](https://github.com/jaeyonggy/2022_Summer_NLP_T12)  
-[Paper](https://github.com/CUAI-CAU/2022-CUAI-Summer-Conference/blob/main/paper/2022_CUAI_Summer_Conference_Shortpaper_NLP_T12.pdf)  
-[Presentation](https://www.youtube.com/watch?v=oGnbYiWPBSE)  
-We trained a text generation model, specifically KoGPT2, on a series of papers' introduction part. By giving a sentence as an input, the model generated several sentences which would form a full paragraph based on the input sentence. We also paraphrased the generated sentences to avoid any plagiarism. We expect the users to easily write a full introduction by coming up with only a few sentences with this model.  
 <br/>
 
 
@@ -112,27 +81,6 @@ We trained a text generation model, specifically KoGPT2, on a series of papers' 
 [Presentation](https://www.youtube.com/watch?v=ff_UeduK5lk)  
 Our team has managed to implement a music recommendation system based on image similarity. The system gets a user's preferred album's album cover and the album's emotions (one of angry, happy, relaxed and sad) as inputs. By YOLO and k-means models, we output 5 albums that is pre-classified as the same emotion as the input's whose album covers are the most similar to the input's album cover.  
 <br/>
-
-
-#### • Predicting change in stock price using news' headlines - 뉴스 기사 제목을 활용한 주가 변동여부 예측
-
-[Prediction model](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/tfidf_title_to_pred.ipynb)  
-[Scraping headlines](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_title.ipynb)  
-[Scraping stock price data](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_stock.ipynb)  
-[Merging data](https://nbviewer.org/github/jaeyonggy/CUAI-Headlines_TextAnalysis_For_StockPrice_Prediction/blob/main/Web%20Scraping%20for%20headlines/data_merge.ipynb)   
-Our team wanted to predict whether or not a stock's price increases based on an article's headline. We utilized webscraping to get various headlines of some specific stocks and their stock price at the end of a market the day after the headline was written. We implemented a classification model to predict and assessed its performance.  
-<br/>
-
-<br/>
-</details>
-
-
-
-<a name="studies"></a>
-<details>
-<summary><b>Studies</b></summary>
-
-Studies I have done for statistics classes, research, or any other topic of interests.
 
 
 #### • Bayesian Statistics
@@ -163,52 +111,4 @@ A collection of PPT that I've made while studying papers related to Bayesian add
 A collection of R Notebooks that I've written while studying 'Hidden Markov models for time series an introduction using R' by Zucchini et al.  
 <br/>
 
-
-#### • Multivariate Statistical Anaylsis
-
-[1장: 다변량 데이터 / 2장: 기초행렬대수 / 3장: 다변량 확률표본 / 4장: 다변량 정규분포](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA.nb.html)  
-[5장: 모집단 평균벡터에 관한 추론](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA2.nb.html)  
-[6장: 다변량 분산분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA3.nb.html)  
-[7장: 주성분분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA4.nb.html)  
-[8장: 인자분석 / 9장: 정준상관분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA5.nb.html)  
-[10장: 판별분석과 분류](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA6.nb.html)  
-[11장: 군집분석 / 12장: 다차원 척도법](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA7.nb.html)  
-[13장: 확인적 인자분석 및 구조방정식 모형](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA8.nb.html)  
-[14장: 반복측정데이터 분석](https://rawcdn.githack.com/jaeyonggy/Studies/ecc29feb7fdf3df2dc102404d17d829d22b64fd6/MVA/MVA9.nb.html)  
-A collection of R Notebooks that include all the examples and codes that were used during Multivariate Statistical Analysis class.  
 <br/>
-
-
-#### • R in Action
-
-[Ch.7 Basic statistics](https://rawcdn.githack.com/jaeyonggy/Studies/ddedb95f4675d0d030acdc2231389bd60843dc79/RInAction/stats.nb.html)  
-[Ch.8 Regression](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/Regression.nb.html)  
-[Ch.9 Analysis of variance](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/anova.nb.html)  
-[Ch.10 Power analysis](https://rawcdn.githack.com/jaeyonggy/Studies/3d2e1d6998c4a42c6207a5b75daea00eb64cf71d/RInAction/power_analysis.nb.html)  
-[Ch.11 Intermediate graphs](https://rawcdn.githack.com/jaeyonggy/Studies/a7df1d6b836a3d7bf7b4af13d064beb4f7974586/RInAction/inter-graphs.nb.html)  
-[Ch.12 Resampling statistics and bootstrapping](https://rawcdn.githack.com/jaeyonggy/Studies/7b60c865f9500b09ae250bac5f496b4510515007/RInAction/resampling.nb.html)  
-[Ch.13 Generalized linear models](https://rawcdn.githack.com/jaeyonggy/Studies/75f88cddc0d010ef238280941699e29168eaf64a/RInAction/glm.nb.html)  
-[Ch.14 Principal components and factor analysis](https://rawcdn.githack.com/jaeyonggy/Studies/20b8abd84d689c7ae989979b18bcc5f04cdbe05a/RInAction/pcfa.nb.html)  
-[Ch.15 Advanced methods for missing data](https://rawcdn.githack.com/jaeyonggy/Studies/20b8abd84d689c7ae989979b18bcc5f04cdbe05a/RInAction/missingdata.nb.html)  
-A collection of R Notebooks that I've written while studying 'R in Action' by Rob Kabacoff.  
-<br/>
-
-
-#### • Bayesian hierarchical clustering (BHC)
-
-[Heller and Ghahramani (2005)](https://github.com/jaeyonggy/Studies/blob/main/BHC.pdf)  
-A PPT that I've made while studying a paper related to Bayesian hierarchical clustering (BHC).  
-<br/>
-
-
-#### • Basic R Statistics
-
-[Hypothesis Testing](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/HypothesisTesting.nb.html)  
-[Categorical Data Analysis](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/categorical.nb.html)  
-[Simple Linear Regression](https://rawcdn.githack.com/jaeyonggy/Studies/9eb7428ee5aeefc89c6550100684c975b047a1e2/RStatBasic/SimpleLinearRegression.nb.html)  
-A collection of R Notebooks that I've written while studying '제대로 알고 쓰는 R 통계분석' by 이윤환.  
-<br/>
-
-<br/>
-</details>
-
