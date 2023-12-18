@@ -66,14 +66,6 @@ I analyzed [2021년 국민여가 활동조사](https://policydb.kcti.re.kr/#/sur
 <br/>
 
 
-#### • Image classification and Grad-CAM of infected leaf images
-
-[Implementation of image classification in PyTorch](https://github.com/jaeyonggy/CVproject/tree/main/PT)  
-[Implementation of Grad-CAM in TensorFlow](https://github.com/jaeyonggy/CVproject/tree/main/TF)  
-A project done while participating in [Image classification challenge](https://zindi.africa/competitions/makerere-fall-armyworm-crop-challenge) hosted by Zindi.africa. The classification itself was not challenging so Grad-CAM technique was used to obtain heatmaps of each image in addition. I compared how the two models (EfficientNet-B0 and ResNet-50) viewed the images and where they focused on while classifying the images. I wanted to see on which part of image the models focused on when they misclassified it and if there was any difference between the two models on which part of images they focused on.  
-<br/>
-
-
 #### • Album Recommendation System Based On Image Similarity - 이미지 유사도 기반 앨범 추천 시스템
 
 [Repo](https://github.com/CUAI-CAU/Recommend-By-Album-Covers)  
@@ -102,13 +94,5 @@ A collection of codes and notes I made while studying for classes or anything re
 A collection of PPT that I've made while studying papers related to Bayesian additive regression trees (BART).  
 <br/>
 
-
-#### • Hidden Markov models (HMM) for time series
-
-[Ch.1 Preliminaries: mixtures and Markov chains](https://rawcdn.githack.com/jaeyonggy/HMM/f8d41722020e60950eb7982601bdd7fcf7b385c6/HMM.nb.html)  
-[Ch.2 Hidden Markov models: definition and properties](https://rawcdn.githack.com/jaeyonggy/HMM/f8d41722020e60950eb7982601bdd7fcf7b385c6/HMM_ch2.nb.html)  
-[HMM paper](https://rawcdn.githack.com/jaeyonggy/HMM/6978acd327ef2328295f64254275d827703aeb4b/HMM_paper.nb.html)  
-A collection of R Notebooks that I've written while studying 'Hidden Markov models for time series an introduction using R' by Zucchini et al.  
 <br/>
 
-<br/>
