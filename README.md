@@ -2,21 +2,12 @@
 
 [GitHub](https://github.com/jaeyonggy)  
 [LinkedIn](https://www.linkedin.com/in/jaeyonglee5)  
-
+Email: jaeyonggy@cau.ac.kr
 
 
 ## About Me
 
-<p align="center">
-  <img width="171" alt="ss" src="https://user-images.githubusercontent.com/63530964/153692586-913f1ee5-65cc-4992-83bb-fc8d672a251a.png">
-</p>
-<p align="center">
-  Jaeyong Lee (이재용) / Email: jaeyonggy@cau.ac.kr  
-</p>
-<br/>
-
-
-I am a **data scientist** with many research experience in **Bayesian statistics** and **AI**.  
+I want to be a data scientist that makes your life comfortable.
 <br/>
 
 
@@ -48,7 +39,8 @@ This page archives all the projects I have done so far.
 
 
 <a name="projects"></a>
-## Projects
+<details>
+<summary><b>Projects</b></summary>
 
 Projects I have done out of my own interest or for participations in competitions.
 
@@ -103,11 +95,12 @@ I performed a time series analysis with the fish production time series data of 
 <br/>
 
 <br/>
-
+</details>
 
 
 <a name="cuai"></a>
-## CUAI (Chung-Ang Univ. Artifical Intelligence - 중앙대학교 인공지능 학회)  
+<details>
+<summary><b>CUAI (Chung-Ang Univ. Artificial Intelligence - 중앙대학교 인공지능 학회)</b></summary>
 
 The projects I have done as a member of CUAI (Chung-Ang Univ. Artifical Intelligence).
 
@@ -140,11 +133,13 @@ Our team wanted to predict whether or not a stock's price increases based on an 
 <br/>
 
 <br/>
+</details>
 
 
 
 <a name="studies"></a>
-## Studies
+<details>
+<summary><b>Studies</b></summary>
 
 Studies I have done for statistics classes, research, or any other topic of interests.
 
@@ -224,5 +219,5 @@ A collection of R Notebooks that I've written while studying '제대로 알고 �
 <br/>
 
 <br/>
-
+</details>
 
