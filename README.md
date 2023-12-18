@@ -2,8 +2,7 @@
 
 [GitHub](https://github.com/jaeyonggy)  
 [LinkedIn](https://www.linkedin.com/in/jaeyonglee5)  
-
-
+<br/>
 
 ## About Me
 
@@ -20,9 +19,6 @@ I was a member of CUAI (Chung-Ang University Artificial Intelligence - 중앙대
 
 I am proficient in Python, R, and MySQL.  
 <br/>
-
-<br/>
-
 
 
 ## Contents
@@ -41,7 +37,7 @@ To be filled!
 
 
 <a name="projects"></a>
-## Projects
+## Projects from university
 
 Projects I have done during my years in university. These include simple toy projects for data science, or more serious projects for competitions, and studies for certain subjects.
 
