@@ -48,7 +48,7 @@
 <a name="projects"></a>
 ## Projects from university
 
-> Projects I have done during my years in university. These include simple toy projects for data science, or more serious projects for competitions, and studies for certain subjects.
+> Projects (or studies) I have done during my years in university.
 
 #### • Causal inference of the effect of participation in sports on the interest in sports as a hobby
 
