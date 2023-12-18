@@ -6,18 +6,27 @@
 
 ## About Me
 
-
-**I want to be a data scientist that makes your life comfortable!** 
+> **"I want to be a data scientist that makes your life comfortable!"**
 <br/>
 
+<details>
+<summary><b>Education</b></summary>
+<br/>
+  
+- M.S., Statistics, Chung-Ang University, March 2022 - February 2024 (expected).
+- B.S., Applied Statistics, and Software Humanities, Chung-Ang University, March 2016 - February 2022.
+- Member of CUAI (Chung-Ang University Artificial Intelligence - 중앙대학교 인공지능 학회), March 2021 - August 2022.  
+- Member of Chung-Ang University GAS (Global Ambassador Scholarship - 중앙대학교 국제처 학생대사), July 2020 - June 2021.
+<br/>
+</details>
 
-I received a Bachelor's degree in Applied Statistics and a Bachelor's degree in Software Humanities at Chung-Ang University on February, 2022.  
-I'm currently pursuing a Master's degree in Statistics at Chung-Ang University with full scholarship from Chung-Ang University GRS (Graduate Research Scholarship).  
+<details>
+<summary><b>Skills</b></summary>
+<br/>
+  
+- **Programming**: Python, R, and MySQL.  
 
-I was a member of Chung-Ang University GAS (Global Ambassador Scholarship - 중앙대학교 국제처 학생대사) from July 2020 to June 2021.  
-I was a member of CUAI (Chung-Ang University Artificial Intelligence - 중앙대학교 인공지능 학회) from March 2021 to August 2022.  
-
-I am proficient in Python, R, and MySQL.  
+</details>
 <br/>
 
 
@@ -31,7 +40,7 @@ I am proficient in Python, R, and MySQL.
 <a name="research"></a>
 ## Research
 
-To be filled!
+> To be filled!
 
 <br/>
 
@@ -39,7 +48,7 @@ To be filled!
 <a name="projects"></a>
 ## Projects from university
 
-Projects I have done during my years in university. These include simple toy projects for data science, or more serious projects for competitions, and studies for certain subjects.
+> Projects I have done during my years in university. These include simple toy projects for data science, or more serious projects for competitions, and studies for certain subjects.
 
 #### • Causal inference of the effect of participation in sports on the interest in sports as a hobby
 
