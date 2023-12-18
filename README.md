@@ -11,13 +11,13 @@
 
 ### Work experience
 
-- Research assistant @ Hanyang Univ., applied mathematics, _August 2022 - November 2023_.
+- Research assistant @ Hanyang Univ., applied mathematics, _Aug 2022 - Nov 2023_.
     - Implemented novel distributions developed in Bayesian statistics methodology.
 
 ### Education
   
-- M.S., Statistics, Chung-Ang Univ., _March 2022 - February 2024 (expected)_.
-- B.S., Applied Statistics, Chung-Ang Univ., _March 2016 - February 2022_.  
+- M.S., Statistics, Chung-Ang Univ., _Mar 2022 - Feb 2024 (expected)_.
+- B.S., Applied Statistics, Chung-Ang Univ., _Mar 2016 - Feb 2022_.  
 <br/>
 
 
