@@ -1,1 +1,5 @@
-theme: jekyll-theme-tactile
+title: Jaeyong Lee
+logo: /assets/profile.png
+description: what's up
+show_downloads: false
+theme: jekyll-theme-minimal
