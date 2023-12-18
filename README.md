@@ -20,10 +20,6 @@
 - B.S., Applied Statistics, and Software Humanities, Chung-Ang University, _March 2016 - February 2022_.
 - Member of CUAI (Chung-Ang University Artificial Intelligence - 중앙대학교 인공지능 학회), _March 2021 - August 2022_.  
 - Member of Chung-Ang University GAS (Global Ambassador Scholarship - 중앙대학교 국제처 학생대사), _July 2020 - June 2021_.
-
-### Skills
-  
-- **Programming**: Python, R, and MySQL.  
 <br/>
 
 
