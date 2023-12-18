@@ -90,7 +90,7 @@ A collection of codes and notes I made while studying for classes or anything re
 [Tan and Roy (2019) - pt.1](https://raw.githack.com/jaeyonggy/Portfolio/main/projects/BART2019-review.pdf)  
 [Tan and Roy (2019) - pt.2](https://raw.githack.com/jaeyonggy/Portfolio/main/projects/BART2019-review2.pdf)  
 [Hill (2011)](https://raw.githack.com/jaeyonggy/Portfolio/main/projects/BART_bio.pdf)  
-A collection of PPT that I've made while studying papers related to Bayesian additive regression trees (BART).  
+A collection of presentations that I've made while studying papers related to Bayesian additive regression trees (BART).  
 <br/>
 
 <br/>
