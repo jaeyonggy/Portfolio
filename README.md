@@ -6,13 +6,13 @@
 
 ## About Me
 
-> **"I want to be a data scientist that makes your life comfortable!"**
+> **"I aspire to be a data scientist that makes your life easier!"**
 <br/>
 
 ### Work experience
 
 - Research assistant @ Hanyang Univ., applied mathematics, _Aug 2022 - Nov 2023_.
-    - Implemented novel distributions developed in Bayesian statistics methodology.
+    - Implemented novel probability distributions developed in Bayesian statistics methodology.
 
 ### Education
   
