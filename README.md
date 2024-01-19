@@ -31,7 +31,7 @@
 <a name="research"></a>
 ## Research
 
-> To be filled!
+- Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. Stat, 13(1), e643. https://doi.org/10.1002/sta4.643
 
 <br/>
 
