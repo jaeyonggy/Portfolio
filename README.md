@@ -6,7 +6,7 @@
 
 ## About Me
 
-> **"I aspire to be a data scientist that makes your life easier!"**
+> **"I am a curiosity-driven data scientist, always asking questions."**
 <br/>
 
 ### Work experience
