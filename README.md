@@ -12,7 +12,6 @@
 ### Work experience
 
 - **SW engineer @ Samsung Electronics DX, _Jan 2024 - Present_.**
-    - To be filled!
 
 - Research assistant @ Hanyang Univ., applied mathematics, _Aug 2022 - Nov 2023_.
     - Implemented novel probability distributions developed in Bayesian statistics methodology.
