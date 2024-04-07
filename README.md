@@ -23,28 +23,20 @@
 ## Contents
 
 • [Research](#research)  
-• [Projects from university](#projects)  
+• [Projects](#projects)  
+• [Studies](#studies)  
 
 <br/>
 
 <a name="research"></a>
 ## Research
 
-- Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. Stat, 13(1), e643. https://doi.org/10.1002/sta4.643
-
+- Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. Stat, 13(1), e643. https://doi.org/10.1002/sta4.643  
 <br/>
 
 
 <a name="projects"></a>
-## Projects from university
-
-> Projects (or studies) I have done during my years in university.
-
-#### • Causal inference of the effect of participation in sports on the interest in sports as a hobby
-
-[R notebook](https://raw.githack.com/jaeyonggy/Portfolio/main/projects/causal.nb.html)  
-I analyzed [2021년 국민여가 활동조사](https://policydb.kcti.re.kr/#/surveyLeisure4?bbstypecd=3003013&poststatcd=1400) (Korean National Survey on Recreational Activities, 2021) in an attempt to discover causal relationship between sports participation history and interest in sports as a hobby. Since there is a positive correlation between the two variables, I was interested in whether a person having participated in sports before tends to have higher interest in sports as a hobby. Since I am dealing with observational data, propensity score matching (PSM) methodology was used to mitigate the confounding and selection bias in observational studies. In this case, the matching couldn't make the distribution of observed covariates more similar between the two groups. The interpretation of the causal effect was given, while making it clear it is only valid if the assumptions of causal inference was met. Lastly, I explored several options to improve the balance of the observed covariates between the two groups for future research.  
-<br/>
+## Projects
 
 
 #### • 디지털 활용 관광 산업발전 BI (Business Idea) 경진대회 우수상 (Data analysis competition hosted by Jeju Technopark and organized by Dacon)
@@ -70,6 +62,10 @@ Our team has managed to implement a music recommendation system based on image s
 <br/>
 
 
+<a name="studies"></a>
+## Studies
+
+
 #### • Bayesian Statistics
 
 [Bayesian Statistics - pt.1](https://raw.githack.com/jaeyonggy/Portfolio/main/projects/Bayesian.nb.html)  
@@ -84,7 +80,6 @@ A collection of codes and notes I made while studying for classes or anything re
 
 [Tan and Roy (2019) - pt.1](https://raw.githack.com/jaeyonggy/Portfolio/main/projects/BART2019-review.pdf)  
 [Tan and Roy (2019) - pt.2](https://raw.githack.com/jaeyonggy/Portfolio/main/projects/BART2019-review2.pdf)  
-[Hill (2011)](https://raw.githack.com/jaeyonggy/Portfolio/main/projects/BART_bio.pdf)  
 A collection of presentations that I've made while studying papers related to Bayesian additive regression trees (BART).  
 <br/>
 
