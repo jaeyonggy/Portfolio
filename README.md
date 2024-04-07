@@ -1,7 +1,6 @@
 # Data Science Portfolio
 
 [GitHub](https://github.com/jaeyonggy)  
-[LinkedIn](https://www.linkedin.com/in/jaeyonglee5)  
 <br/>
 
 ## About Me
@@ -10,8 +9,6 @@
 <br/>
 
 ### Work experience
-
-- **SW engineer @ Samsung Electronics DX, _Jan 2024 - Present_.**
 
 - Research assistant @ Hanyang Univ., applied mathematics, _Aug 2022 - Nov 2023_.
     - Implemented novel probability distributions developed in Bayesian statistics methodology.
