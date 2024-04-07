@@ -39,6 +39,13 @@
 ## Projects
 
 
+#### • Ordered probit Bayesian additive regression trees for ordinal data
+
+[Repo](https://github.com/jaeyonggy/OPBART)  
+This is the implementation of the paper _Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. Stat, 13(1), e643. https://doi.org/10.1002/sta4.643_. Bayesian additive regression trees (BART) is a nonparametric model that is known for its flexibility and strong statistical foundation. To address a robust and flexible approach to analyse ordinal data, we extend BART into an ordered probit regression framework (OPBART). Further, we propose a semiparametric setting for OPBART (semi-OPBART) to model covariates of interest parametrically and confounding variables nonparametrically. We also provide Gibbs sampling procedures to implement the proposed models. In both simulations and real data studies, the proposed models demonstrate superior performance over other competing ordinal models. We also highlight enhanced interpretability of semi-OPBART in terms of inference through marginal effects.  
+<br/>
+
+
 #### • 디지털 활용 관광 산업발전 BI (Business Idea) 경진대회 우수상 (Data analysis competition hosted by Jeju Technopark and organized by Dacon)
 
 [수상작 ipynb - 제주도 여행, 렌트카만 안타면 더 배부른 여행!](https://dacon.io/competitions/official/236012/codeshare/7092?page=1&dtype=random)  
