@@ -31,7 +31,7 @@
 <a name="research"></a>
 ## Research
 
-- Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. Stat, 13(1), e643. https://doi.org/10.1002/sta4.643  
+- Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. _Stat, 13_(1), e643. [https://doi.org/10.1002/sta4.643](https://doi.org/10.1002/sta4.643)  
 <br/>
 
 
@@ -41,8 +41,9 @@
 
 #### • Ordered probit Bayesian additive regression trees for ordinal data
 
-[Repo](https://github.com/jaeyonggy/OPBART)  
-This is the implementation of the paper _Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. Stat, 13(1), e643. https://doi.org/10.1002/sta4.643_. Bayesian additive regression trees (BART) is a nonparametric model that is known for its flexibility and strong statistical foundation. To address a robust and flexible approach to analyse ordinal data, we extend BART into an ordered probit regression framework (OPBART). Further, we propose a semiparametric setting for OPBART (semi-OPBART) to model covariates of interest parametrically and confounding variables nonparametrically. We also provide Gibbs sampling procedures to implement the proposed models. In both simulations and real data studies, the proposed models demonstrate superior performance over other competing ordinal models. We also highlight enhanced interpretability of semi-OPBART in terms of inference through marginal effects.  
+[Repository](https://github.com/jaeyonggy/OPBART)  
+This is the implementation of the paper: Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. _Stat, 13_(1), e643.  
+Bayesian additive regression trees (BART) is a nonparametric model that is known for its flexibility and strong statistical foundation. To address a robust and flexible approach to analyse ordinal data, we extend BART into an ordered probit regression framework (OPBART). Further, we propose a semiparametric setting for OPBART (semi-OPBART) to model covariates of interest parametrically and confounding vari- ables nonparametrically. We also provide Gibbs sampling procedures to implement the proposed models. In both simulations and real data studies, the proposed models demonstrate superior performance over other competing ordinal models. We also highlight enhanced interpretability of semi-OPBART in terms of inference through marginal effects.  
 <br/>
 
 
@@ -62,7 +63,7 @@ This is the implementation of the paper _Lee, J., & Hwang, B. S. (2024). Ordered
 
 #### • Album Recommendation System Based On Image Similarity - 이미지 유사도 기반 앨범 추천 시스템
 
-[Repo](https://github.com/CUAI-CAU/Recommend-By-Album-Covers)  
+[Repository](https://github.com/CUAI-CAU/Recommend-By-Album-Covers)  
 [Paper](https://github.com/CUAI-CAU/2021-CUAI-Winter-Conference/blob/main/paper/J.pdf)  
 [Presentation](https://www.youtube.com/watch?v=ff_UeduK5lk)  
 Our team has managed to implement a music recommendation system based on image similarity. The system gets a user's preferred album's album cover and the album's emotions (one of angry, happy, relaxed and sad) as inputs. By YOLO and k-means models, we output 5 albums that is pre-classified as the same emotion as the input's whose album covers are the most similar to the input's album cover.  
