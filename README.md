@@ -1,6 +1,7 @@
 # Data Science Portfolio
 
 [GitHub](https://github.com/jaeyonggy)  
+[LinkedIn](www.linkedin.com/in/jaeyonglee5)  
 <br/>
 
 ## About Me
@@ -10,7 +11,13 @@
 
 ### Work experience
 
-- Research assistant @ Hanyang Univ., applied mathematics, _Aug 2022 - Nov 2023_.
+- Data Scientist (financial risk modeling) @ Hyundai Capital Services, _Jul 2024 - current_.
+    - _To be filled!_
+
+- Software Engineer @ Samsung Electronics (DX), _Jan 2024 - Jul 2024_.
+    - Log data analysis of error codes from robot vacuums.
+
+- Research assistant @ Hanyang Univ. (applied mathematics), _Aug 2022 - Nov 2023_.
     - Implemented novel probability distributions developed in Bayesian statistics methodology.
 
 ### Education
