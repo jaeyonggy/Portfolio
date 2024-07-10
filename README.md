@@ -11,7 +11,7 @@
 
 ### Work experience
 
-- Data Scientist (financial risk modeling) @ Hyundai Capital Services, _Jul 2024 - current_.
+- Data Scientist @ Hyundai Capital Services, _Jul 2024 - current_.
     - _To be filled!_
 
 - Software Engineer @ Samsung Electronics (DX), _Jan 2024 - Jul 2024_.
