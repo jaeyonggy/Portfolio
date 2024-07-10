@@ -17,7 +17,7 @@
 - Software Engineer @ Samsung Electronics (DX), _Jan 2024 - Jul 2024_.
     - Log data analysis of error codes from robot vacuums.
 
-- Research assistant @ Hanyang Univ. (applied mathematics), _Aug 2022 - Nov 2023_.
+- Research assistant @ Hanyang Univ., _Aug 2022 - Nov 2023_.
     - Implemented novel probability distributions developed in Bayesian statistics methodology.
 
 ### Education
