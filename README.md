@@ -38,10 +38,13 @@
 <a name="research"></a>
 ## Research
 
-- Lee, J., & Hwang, B. S. (2024). Energy demand pattern analysis in South Korea using hidden Markov model-based classification. _Asian Economic Journal_, 1–25. [https://doi.org/10.1111/asej.12338](https://doi.org/10.1111/asej.12338)
+- Kim, S. W., Kim, K., Lee, J., & Hwang, B. S. (2024). Inference on a bivariate binomial distribution with zero-inflation applicable to baseball data. _Statistical Modelling_, [doi:10.1177/1471082X241299916](https://journals.sagepub.com/doi/full/10.1177/1471082X241299916).
 <br/>
 
-- Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. _Stat_, 13(1), e643. [https://doi.org/10.1002/sta4.643](https://doi.org/10.1002/sta4.643)  
+- Lee, J., & Hwang, B. S. (2024). Energy demand pattern analysis in South Korea using hidden Markov model-based classification. _Asian Economic Journal_, 1–25. [https://doi.org/10.1111/asej.12338](https://doi.org/10.1111/asej.12338).  
+<br/>
+
+- Lee, J., & Hwang, B. S. (2024). Ordered probit Bayesian additive regression trees for ordinal data. _Stat_, 13(1), e643. [https://doi.org/10.1002/sta4.643](https://doi.org/10.1002/sta4.643).  
 <br/>
 
 
